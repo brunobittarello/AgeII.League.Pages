@@ -2,7 +2,7 @@
 
 This is a fictional league based on ranked leader from https://aoe2.net/#aoe2de-leaderboard-rm-1v1. I got all ranking and match results from the best 200 players. The first season placements is based on a download from 2020-10-16 and the past 1000 matches of each player.
 
-For aditional information and feedbacks, click here.
+For aditional information and feedbacks, [click here](info.md).
 
 # Previous Seasons
 |        | [S1-D1](Season1.md) | Pts | [S2-D1](Season2.md) | Pts | [S3-D1](Season1.md) | Pts | [S4-D1](Season4.md) | Pts | [S5-D1](Season5.md) | Pts   |
