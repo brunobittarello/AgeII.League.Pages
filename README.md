@@ -41,9 +41,9 @@ For aditional information and feedbacks, [click here](info.md).
 | **20** :small_red_triangle_down: | **[aM] Hearttt** | **12** | **0** | **12** | **7** | **4** | **12** | **-8** |
 <details>
 <summary>Games</summary>
-
+<blockquote>
 <details>
-<summary>###Villese</summary>
+<summary> Villese</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###GL.JorDan_AoE</summary>
+<summary> GL.JorDan_AoE</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -65,7 +65,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###GL.TheViper</summary>
+<summary> GL.TheViper</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -76,7 +76,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###[aM] Hera</summary>
+<summary> [aM] Hera</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -87,7 +87,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###ACCM</summary>
+<summary> ACCM</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -98,7 +98,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###dogao</summary>
+<summary> dogao</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -109,7 +109,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###SalzZ_Vinchester</summary>
+<summary> SalzZ_Vinchester</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -120,7 +120,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###BacT</summary>
+<summary> BacT</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -131,7 +131,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###GL.DauT</summary>
+<summary> GL.DauT</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -142,7 +142,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###[aM]_TheMbL_</summary>
+<summary> [aM]_TheMbL_</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -153,7 +153,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_WWP_Yo</summary>
+<summary> _WWP_Yo</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -164,7 +164,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###[aM] Nicov</summary>
+<summary> [aM] Nicov</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -175,7 +175,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###TheMax</summary>
+<summary> TheMax</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -186,7 +186,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_WWP_Tim_</summary>
+<summary> _WWP_Tim_</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -197,7 +197,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###GL.slam</summary>
+<summary> GL.slam</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -208,7 +208,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Vivi</summary>
+<summary> Vivi</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -219,7 +219,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Babaorum</summary>
+<summary> Babaorum</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -230,7 +230,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###mYi.Daniel</summary>
+<summary> mYi.Daniel</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -241,7 +241,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Modri</summary>
+<summary> Modri</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -252,7 +252,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###[aM] Hearttt</summary>
+<summary> [aM] Hearttt</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -261,7 +261,7 @@ For aditional information and feedbacks, [click here](info.md).
 | 0-0 | Villese | 1-2 | GL.DauT | 0-0 | \_WWP\_Tim\_ | 0-0 | [aM] Nicov | 0-0 | Vivi |
 | 2-2 | BacT | 0-0 | Babaorum | 0-1 | TheMax | 0-1 | mYi.Daniel |
 </details>
-
+</blockquote>
 </details>
 
  ## Division 2
@@ -290,9 +290,9 @@ For aditional information and feedbacks, [click here](info.md).
 | **20** :small_red_triangle_down: | **The\_Dragonstar** | **15** | **1** | **12** | **6** | **4** | **15** | **-11** |
 <details>
 <summary>Games</summary>
-
+<blockquote>
 <details>
-<summary>###GL.TaToH</summary>
+<summary> GL.TaToH</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -303,7 +303,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###SongSong_AOE</summary>
+<summary> SongSong_AOE</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -314,7 +314,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###[KGB] F1Re</summary>
+<summary> [KGB] F1Re</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -325,7 +325,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###mYi.PROject_Belgium</summary>
+<summary> mYi.PROject_Belgium</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -336,7 +336,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###[aM] Liereyy</summary>
+<summary> [aM] Liereyy</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -347,7 +347,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###miguel</summary>
+<summary> miguel</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -358,7 +358,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###[bK]bruh</summary>
+<summary> [bK]bruh</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -369,7 +369,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###saymyname</summary>
+<summary> saymyname</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -380,7 +380,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Valas</summary>
+<summary> Valas</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -391,7 +391,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###mYi.Sitaux</summary>
+<summary> mYi.Sitaux</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -402,7 +402,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###FB.Kasva</summary>
+<summary> FB.Kasva</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -413,7 +413,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_WWP_lyx</summary>
+<summary> _WWP_lyx</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -424,7 +424,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###IMP | Capoch</summary>
+<summary> IMP | Capoch</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -435,7 +435,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Zuppi</summary>
+<summary> Zuppi</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -446,7 +446,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###__BadBoy__</summary>
+<summary> __BadBoy__</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -457,7 +457,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_WWP_StrayDog</summary>
+<summary> _WWP_StrayDog</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -468,7 +468,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Fish</summary>
+<summary> Fish</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -479,7 +479,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_Barles_</summary>
+<summary> _Barles_</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -490,7 +490,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###StefanHD</summary>
+<summary> StefanHD</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -501,7 +501,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###The_Dragonstar</summary>
+<summary> The_Dragonstar</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -510,7 +510,7 @@ For aditional information and feedbacks, [click here](info.md).
 | 1-3 | saymyname | 0-0 | mYi.Sitaux | 0-0 | Valas | 0-0 | \_WWP\_lyx | 0-0 | \_WWP\_StrayDog |
 | 0-1 | miguel | 2-0 | SongSong\_AOE | 0-0 | Zuppi | 0-0 | StefanHD |
 </details>
-
+</blockquote>
 </details>
 
  ## Division 3
@@ -539,9 +539,9 @@ For aditional information and feedbacks, [click here](info.md).
 | **20** :small_red_triangle_down: | **twitch.tv/st4rk\_** | **16** | **0** | **16** | **3** | **2** | **6** | **-4** |
 <details>
 <summary>Games</summary>
-
+<blockquote>
 <details>
-<summary>###HOANG</summary>
+<summary> HOANG</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -552,7 +552,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Fedex</summary>
+<summary> Fedex</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -563,7 +563,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###RoR | Vodka_L_</summary>
+<summary> RoR | Vodka_L_</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -574,7 +574,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Dark</summary>
+<summary> Dark</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -585,7 +585,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Twigg</summary>
+<summary> Twigg</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -596,7 +596,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_WWP_Bad Koala</summary>
+<summary> _WWP_Bad Koala</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -607,7 +607,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Scotty</summary>
+<summary> Scotty</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -618,7 +618,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###DS_RiskyDice</summary>
+<summary> DS_RiskyDice</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -629,7 +629,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Jackk</summary>
+<summary> Jackk</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -640,7 +640,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Heresy | LaN</summary>
+<summary> Heresy | LaN</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -651,7 +651,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###RoR | Rise</summary>
+<summary> RoR | Rise</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -662,7 +662,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_WWP_CL</summary>
+<summary> _WWP_CL</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -673,7 +673,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Running</summary>
+<summary> Running</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -684,7 +684,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_WWP_AocEr_PAL</summary>
+<summary> _WWP_AocEr_PAL</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -695,7 +695,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Isaac</summary>
+<summary> Isaac</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -706,7 +706,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###chart</summary>
+<summary> chart</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -717,7 +717,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###RoR | Noisick</summary>
+<summary> RoR | Noisick</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -728,7 +728,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###[KGB] Alive</summary>
+<summary> [KGB] Alive</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -739,7 +739,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###GL.Nili</summary>
+<summary> GL.Nili</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -750,7 +750,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###twitch.tv/st4rk_</summary>
+<summary> twitch.tv/st4rk_</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -759,7 +759,7 @@ For aditional information and feedbacks, [click here](info.md).
 | 0-0 | RoR \| Noisick | 0-0 | HOANG | 0-2 | \_WWP\_Bad Koala | 0-0 | Running | 0-0 | \_WWP\_AocEr\_PAL |
 | 0-0 | Isaac | 2-2 | [KGB] Alive | 0-0 | chart | 0-1 | Fedex |
 </details>
-
+</blockquote>
 </details>
 
  ## Division 4
@@ -788,9 +788,9 @@ For aditional information and feedbacks, [click here](info.md).
 | **20** :small_red_triangle_down: | **Hawks** | **17** | **0** | **17** | **2** | **1** | **4** | **-3** |
 <details>
 <summary>Games</summary>
-
+<blockquote>
 <details>
-<summary>###CL.Darknoob</summary>
+<summary> CL.Darknoob</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -801,7 +801,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Chris</summary>
+<summary> Chris</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -812,7 +812,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_WWP_MING</summary>
+<summary> _WWP_MING</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -823,7 +823,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###fire_de</summary>
+<summary> fire_de</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -834,7 +834,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###NOC | komtan</summary>
+<summary> NOC | komtan</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -845,7 +845,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###sora kuma</summary>
+<summary> sora kuma</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -856,7 +856,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###SalzZ_classicpro</summary>
+<summary> SalzZ_classicpro</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -867,7 +867,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###repard</summary>
+<summary> repard</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -878,7 +878,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###LY008</summary>
+<summary> LY008</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -889,7 +889,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_BAT_塞亚人</summary>
+<summary> _BAT_塞亚人</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -900,7 +900,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Wisepii</summary>
+<summary> Wisepii</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -911,7 +911,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_Tea</summary>
+<summary> _Tea</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -922,7 +922,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###曹孟德</summary>
+<summary> 曹孟德</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -933,7 +933,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_Ares_yinghua_</summary>
+<summary> _Ares_yinghua_</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -944,7 +944,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###神明与她</summary>
+<summary> 神明与她</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -955,7 +955,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###[KGB] RiuT</summary>
+<summary> [KGB] RiuT</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -966,7 +966,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###RecoN</summary>
+<summary> RecoN</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -977,7 +977,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_WWP_Iroha</summary>
+<summary> _WWP_Iroha</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -988,7 +988,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Gkt_cloud</summary>
+<summary> Gkt_cloud</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -999,7 +999,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Hawks</summary>
+<summary> Hawks</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1008,7 +1008,7 @@ For aditional information and feedbacks, [click here](info.md).
 | 0-0 | Wisepii | 0-0 | \_Tea | 0-0 | 曹孟德 | 0-0 | \_Ares\_yinghua\_ | 0-0 | 神明与她 |
 | 0-0 | fire\_de | 0-0 | \_WWP\_Iroha | 0-0 | Gkt\_cloud | 0-0 | NOC \| komtan |
 </details>
-
+</blockquote>
 </details>
 
  ## Division 5
@@ -1037,9 +1037,9 @@ For aditional information and feedbacks, [click here](info.md).
 | **20** :small_red_triangle_down: | **YoungBae** | **18** | **1** | **15** | **3** | **2** | **4** | **-2** |
 <details>
 <summary>Games</summary>
-
+<blockquote>
 <details>
-<summary>###[HyM]Cyclops</summary>
+<summary> [HyM]Cyclops</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1050,7 +1050,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Skull</summary>
+<summary> Skull</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1061,7 +1061,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###CL.JonSlow</summary>
+<summary> CL.JonSlow</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1072,7 +1072,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###GodOfTheGodless</summary>
+<summary> GodOfTheGodless</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1083,7 +1083,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###CL.TheBloodless</summary>
+<summary> CL.TheBloodless</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1094,7 +1094,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###RoR | Kellar</summary>
+<summary> RoR | Kellar</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1105,7 +1105,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###flightlessbird</summary>
+<summary> flightlessbird</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1116,7 +1116,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###SuN | Mexican Psycho</summary>
+<summary> SuN | Mexican Psycho</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1127,7 +1127,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###RoR | Kellar</summary>
+<summary> RoR | Kellar</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1138,7 +1138,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###魔卡大神简瓜瓜</summary>
+<summary> 魔卡大神简瓜瓜</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1149,7 +1149,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###[bK]martinhs_</summary>
+<summary> [bK]martinhs_</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1160,7 +1160,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_bmt_legend</summary>
+<summary> _bmt_legend</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1171,7 +1171,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###RollsRoyce__</summary>
+<summary> RollsRoyce__</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1182,7 +1182,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Galaxy</summary>
+<summary> Galaxy</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1193,7 +1193,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###The_shy</summary>
+<summary> The_shy</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1204,7 +1204,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Zeddddddd</summary>
+<summary> Zeddddddd</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1215,7 +1215,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###Scogo</summary>
+<summary> Scogo</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1226,7 +1226,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_WWP_ming</summary>
+<summary> _WWP_ming</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1237,7 +1237,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###_WWP_Acuo</summary>
+<summary> _WWP_Acuo</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1248,7 +1248,7 @@ For aditional information and feedbacks, [click here](info.md).
 </details>
 
 <details>
-<summary>###YoungBae</summary>
+<summary> YoungBae</summary>
 
 | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1257,5 +1257,5 @@ For aditional information and feedbacks, [click here](info.md).
 | 0-0 | Galaxy | 0-0 | RollsRoyce\_\_ | 0-0 | RoR \| Kellar | 0-0 | [bK]martinhs\_ | 0-0 | 魔卡大神简瓜瓜 |
 | 0-0 | RoR \| Kellar | 0-0 | SuN \| Mexican Psycho | 0-0 | flightlessbird | 0-0 | \_WWP\_Acuo |
 </details>
-
+</blockquote>
 </details>
