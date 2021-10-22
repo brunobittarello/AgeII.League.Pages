@@ -1,6 +1,6 @@
 # Age of Empires II League
 
-This is a fictional league based on ranked leader available at https://aoe2.net/#aoe2de-leaderboard-rm-1v1. All ranking and match results from the best 200 players were used.
+This is a fictional league based on 1v1 Random Map ladder available at https://aoe2.net/#aoe2de-leaderboard-rm-1v1. All ranking and match results from the best 200 players were used.
 
 For aditional information and feedbacks, [click here](info.md).
 
