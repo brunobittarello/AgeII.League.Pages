@@ -4,6 +4,14 @@ This is a fictional league based on ranked leader from https://aoe2.net/#aoe2de-
 
 For aditional information and feedbacks, click here.
 
+# Previous Seasons
+|        | [S1-D1](Season1.md) | Pts | [S2-D1](Season2.md) | Pts | [S3-D1](Season1.md) | Pts | [S4-D1](Season4.md) | Pts | [S5-D1](Season5.md) | Pts   |
+| ---                     | :--             | :--    | :--             | :--    | :--                | :--    | :--                | :--   | :--            | ---   |
+| **1** :trophy:          | **GL.TheViper** | **37** | **GL.TheViper** | **41** | **[aM]\_TheMbL\_** | **34** | **[aM]\_TheMbL\_** | **38** | **ACCM**     | **43** |
+| **2** :2nd_place_medal: | [aM] Hera       | 36     | \_WWP\_Yo       | 36     | [aM] Hera          | 33     | Vivi               | 33     | [aM] Hera        | 35 |
+| **3** :3rd_place_medal: | [aM]\_TheMbL\_  | 35     | [aM] Liereyy    | 36     | GL.slam            | 33     | Villese            | 33     | \_WWP\_Yo        | 31 |
+| **4** :3rd_place_medal: | Vivi            | 33     | [aM]\_TheMbL\_  | 34     | TheMax             | 33     | GL.TheViper        | 32    | SalzZ\_Vinchester | 28 |
+
 # Current Season 6
 2021-09-01 to 2021-11-30
 
