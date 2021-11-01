@@ -24,7 +24,7 @@ Some players stop playing for some time, or even give up playing with an account
 
 ## Technical information
 
-All those tables were created using PHP with Laravel 8.62 and MySql. Source code is in a private repository.
+All those tables were created using PHP 7.4.1 with Laravel 8.62 and MySql. Source code is in a private repository.
 
 ## Acknowledgment
 
