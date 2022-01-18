@@ -30,225 +30,245 @@
 <summary>Games</summary>
 <blockquote>
 
-  <details>
-    <summary> [aM]_TheMbL_</summary>
+<details>
+<summary> [aM]_TheMbL_</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     19-20 | [aM] Hera | 5-6 | \_WWP\_Yo | 0-0 | Nicov | **11-8** | **\_WWP\_Vivi** | 5-10 | GL.TheViper |
-|     **4-1** | **BacT** | **8-4** | **[aM] Liereyy** | **2-1** | **miguel** | 1-3 | TheMax | **3-0** | **GL.TaToH** |
-|     **1-0** | **Modri** | **3-2** | **ACCM** | **23-9** | **Villese** | **14-9** | **GL.slam** | **1-0** | **mYi.Sitaux** |
-|     **7-3** | **IMP \| Capoch** | 0-1 | \_WWP\_Tim\_ | **5-0** | **\_Barles\_** | 3-3 | SalzZ\_Vinchester |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 19-20 | [aM] Hera | | 5-6 | \_WWP\_Yo | | 0-0 | Nicov | | **11-8** | **\_WWP\_Vivi** | |
+| 5-10 | GL.TheViper | | **4-1** | **BacT** | | **8-4** | **[aM] Liereyy** | | **2-1** | **miguel** | |
+| 1-3 | TheMax | | **3-0** | **GL.TaToH** | | **1-0** | **Modri** | | **3-2** | **ACCM** | |
+| **23-9** | **Villese** | | **14-9** | **GL.slam** | | **1-0** | **mYi.Sitaux** | | **7-3** | **IMP \| Capoch** | |
+| 0-1 | \_WWP\_Tim\_ | | **5-0** | **\_Barles\_** | | 3-3 | SalzZ\_Vinchester | |
+</details>
 
-  <details>
-    <summary> GL.TheViper</summary>
+<details>
+<summary> GL.TheViper</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **26-23** | **[aM] Hera** | **15-6** | **\_WWP\_Yo** | **2-0** | **Nicov** | **10-5** | **[aM]\_TheMbL\_** | **3-2** | **\_WWP\_Vivi** |
-|     0-0 | BacT | 1-2 | [aM] Liereyy | **1-0** | **miguel** | 0-0 | TheMax | **3-1** | **GL.TaToH** |
-|     **3-0** | **Modri** | 0-0 | ACCM | **3-0** | **Villese** | 0-0 | GL.slam | 0-0 | mYi.Sitaux |
-|     **1-0** | **IMP \| Capoch** | 0-0 | \_WWP\_Tim\_ | 0-1 | \_Barles\_ | 1-2 | SalzZ\_Vinchester |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **26-23** | **[aM] Hera** | | **15-6** | **\_WWP\_Yo** | | **2-0** | **Nicov** | | **10-5** | **[aM]\_TheMbL\_** | |
+| **3-2** | **\_WWP\_Vivi** | | 0-0 | BacT | | 1-2 | [aM] Liereyy | | **1-0** | **miguel** | |
+| 0-0 | TheMax | | **3-1** | **GL.TaToH** | | **3-0** | **Modri** | | 0-0 | ACCM | |
+| **3-0** | **Villese** | | 0-0 | GL.slam | | 0-0 | mYi.Sitaux | | **1-0** | **IMP \| Capoch** | |
+| 0-0 | \_WWP\_Tim\_ | | 0-1 | \_Barles\_ | | 1-2 | SalzZ\_Vinchester | |
+</details>
 
-  <details>
-    <summary> [aM] Liereyy</summary>
+<details>
+<summary> [aM] Liereyy</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     1-5 | [aM] Hera | **2-0** | **\_WWP\_Yo** | **3-1** | **Nicov** | 4-8 | [aM]\_TheMbL\_ | **5-1** | **\_WWP\_Vivi** |
-|     **2-1** | **GL.TheViper** | **1-0** | **BacT** | 0-0 | miguel | 1-1 | TheMax | 2-3 | GL.TaToH |
-|     **1-0** | **Modri** | 0-0 | ACCM | 0-2 | Villese | 1-1 | GL.slam | **1-0** | **mYi.Sitaux** |
-|     **2-1** | **IMP \| Capoch** | 1-1 | \_WWP\_Tim\_ | 2-2 | \_Barles\_ | **1-0** | **SalzZ\_Vinchester** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-5 | [aM] Hera | | **2-0** | **\_WWP\_Yo** | | **3-1** | **Nicov** | | 4-8 | [aM]\_TheMbL\_ | |
+| **5-1** | **\_WWP\_Vivi** | | **2-1** | **GL.TheViper** | | **1-0** | **BacT** | | 0-0 | miguel | |
+| 1-1 | TheMax | | 2-3 | GL.TaToH | | **1-0** | **Modri** | | 0-0 | ACCM | |
+| 0-2 | Villese | | 1-1 | GL.slam | | **1-0** | **mYi.Sitaux** | | **2-1** | **IMP \| Capoch** | |
+| 1-1 | \_WWP\_Tim\_ | | 2-2 | \_Barles\_ | | **1-0** | **SalzZ\_Vinchester** | |
+</details>
 
-  <details>
-    <summary> Villese</summary>
+<details>
+<summary> Villese</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     1-1 | [aM] Hera | 1-1 | \_WWP\_Yo | 2-7 | Nicov | 9-23 | [aM]\_TheMbL\_ | **3-0** | **\_WWP\_Vivi** |
-|     0-3 | GL.TheViper | 0-1 | BacT | **2-0** | **[aM] Liereyy** | **1-0** | **miguel** | 0-0 | TheMax |
-|     **4-2** | **GL.TaToH** | **1-0** | **Modri** | 0-0 | ACCM | **3-0** | **GL.slam** | **2-0** | **mYi.Sitaux** |
-|     1-1 | IMP \| Capoch | 0-0 | \_WWP\_Tim\_ | **3-0** | **\_Barles\_** | **1-0** | **SalzZ\_Vinchester** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-1 | [aM] Hera | | 1-1 | \_WWP\_Yo | | 2-7 | Nicov | | 9-23 | [aM]\_TheMbL\_ | |
+| **3-0** | **\_WWP\_Vivi** | | 0-3 | GL.TheViper | | 0-1 | BacT | | **2-0** | **[aM] Liereyy** | |
+| **1-0** | **miguel** | | 0-0 | TheMax | | **4-2** | **GL.TaToH** | | **1-0** | **Modri** | |
+| 0-0 | ACCM | | **3-0** | **GL.slam** | | **2-0** | **mYi.Sitaux** | | 1-1 | IMP \| Capoch | |
+| 0-0 | \_WWP\_Tim\_ | | **3-0** | **\_Barles\_** | | **1-0** | **SalzZ\_Vinchester** | |
+</details>
 
-  <details>
-    <summary> [aM] Hera</summary>
+<details>
+<summary> [aM] Hera</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **8-6** | **\_WWP\_Yo** | 0-0 | Nicov | **20-19** | **[aM]\_TheMbL\_** | **6-5** | **\_WWP\_Vivi** | 23-26 | GL.TheViper |
-|     0-0 | BacT | **5-1** | **[aM] Liereyy** | **2-0** | **miguel** | 0-0 | TheMax | 0-0 | GL.TaToH |
-|     1-2 | Modri | 0-0 | ACCM | 1-1 | Villese | 0-0 | GL.slam | 0-0 | mYi.Sitaux |
-|     **6-4** | **IMP \| Capoch** | 0-0 | \_WWP\_Tim\_ | **1-0** | **\_Barles\_** | **1-0** | **SalzZ\_Vinchester** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **8-6** | **\_WWP\_Yo** | | 0-0 | Nicov | | **20-19** | **[aM]\_TheMbL\_** | | **6-5** | **\_WWP\_Vivi** | |
+| 23-26 | GL.TheViper | | 0-0 | BacT | | **5-1** | **[aM] Liereyy** | | **2-0** | **miguel** | |
+| 0-0 | TheMax | | 0-0 | GL.TaToH | | 1-2 | Modri | | 0-0 | ACCM | |
+| 1-1 | Villese | | 0-0 | GL.slam | | 0-0 | mYi.Sitaux | | **6-4** | **IMP \| Capoch** | |
+| 0-0 | \_WWP\_Tim\_ | | **1-0** | **\_Barles\_** | | **1-0** | **SalzZ\_Vinchester** | |
+</details>
 
-  <details>
-    <summary> Modri</summary>
+<details>
+<summary> Modri</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **2-1** | **[aM] Hera** | 0-0 | \_WWP\_Yo | 0-0 | Nicov | 0-1 | [aM]\_TheMbL\_ | **1-0** | **\_WWP\_Vivi** |
-|     0-3 | GL.TheViper | **1-0** | **BacT** | 0-1 | [aM] Liereyy | **2-0** | **miguel** | 0-0 | TheMax |
-|     0-0 | GL.TaToH | 1-1 | ACCM | 0-1 | Villese | 0-0 | GL.slam | 0-0 | mYi.Sitaux |
-|     **1-0** | **IMP \| Capoch** | **6-1** | **\_WWP\_Tim\_** | **2-1** | **\_Barles\_** | **2-1** | **SalzZ\_Vinchester** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **2-1** | **[aM] Hera** | | 0-0 | \_WWP\_Yo | | 0-0 | Nicov | | 0-1 | [aM]\_TheMbL\_ | |
+| **1-0** | **\_WWP\_Vivi** | | 0-3 | GL.TheViper | | **1-0** | **BacT** | | 0-1 | [aM] Liereyy | |
+| **2-0** | **miguel** | | 0-0 | TheMax | | 0-0 | GL.TaToH | | 1-1 | ACCM | |
+| 0-1 | Villese | | 0-0 | GL.slam | | 0-0 | mYi.Sitaux | | **1-0** | **IMP \| Capoch** | |
+| **6-1** | **\_WWP\_Tim\_** | | **2-1** | **\_Barles\_** | | **2-1** | **SalzZ\_Vinchester** | |
+</details>
 
-  <details>
-    <summary> _WWP_Vivi</summary>
+<details>
+<summary> _WWP_Vivi</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     5-6 | [aM] Hera | 1-10 | \_WWP\_Yo | 0-0 | Nicov | 8-11 | [aM]\_TheMbL\_ | 2-3 | GL.TheViper |
-|     **4-1** | **BacT** | 1-5 | [aM] Liereyy | **2-1** | **miguel** | 2-2 | TheMax | **5-2** | **GL.TaToH** |
-|     0-1 | Modri | **7-2** | **ACCM** | 0-3 | Villese | **8-3** | **GL.slam** | **3-0** | **mYi.Sitaux** |
-|     **2-1** | **IMP \| Capoch** | **3-0** | **\_WWP\_Tim\_** | **3-2** | **\_Barles\_** | 2-4 | SalzZ\_Vinchester |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5-6 | [aM] Hera | | 1-10 | \_WWP\_Yo | | 0-0 | Nicov | | 8-11 | [aM]\_TheMbL\_ | |
+| 2-3 | GL.TheViper | | **4-1** | **BacT** | | 1-5 | [aM] Liereyy | | **2-1** | **miguel** | |
+| 2-2 | TheMax | | **5-2** | **GL.TaToH** | | 0-1 | Modri | | **7-2** | **ACCM** | |
+| 0-3 | Villese | | **8-3** | **GL.slam** | | **3-0** | **mYi.Sitaux** | | **2-1** | **IMP \| Capoch** | |
+| **3-0** | **\_WWP\_Tim\_** | | **3-2** | **\_Barles\_** | | 2-4 | SalzZ\_Vinchester | |
+</details>
 
-  <details>
-    <summary> ACCM</summary>
+<details>
+<summary> ACCM</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | [aM] Hera | **1-0** | **\_WWP\_Yo** | **2-1** | **Nicov** | 2-3 | [aM]\_TheMbL\_ | 2-7 | \_WWP\_Vivi |
-|     0-0 | GL.TheViper | 17-23 | BacT | 0-0 | [aM] Liereyy | **1-0** | **miguel** | 0-0 | TheMax |
-|     **1-0** | **GL.TaToH** | 1-1 | Modri | 0-0 | Villese | **18-9** | **GL.slam** | 0-0 | mYi.Sitaux |
-|     **5-2** | **IMP \| Capoch** | 2-3 | \_WWP\_Tim\_ | 0-0 | \_Barles\_ | **1-0** | **SalzZ\_Vinchester** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | [aM] Hera | | **1-0** | **\_WWP\_Yo** | | **2-1** | **Nicov** | | 2-3 | [aM]\_TheMbL\_ | |
+| 2-7 | \_WWP\_Vivi | | 0-0 | GL.TheViper | | 17-23 | BacT | | 0-0 | [aM] Liereyy | |
+| **1-0** | **miguel** | | 0-0 | TheMax | | **1-0** | **GL.TaToH** | | 1-1 | Modri | |
+| 0-0 | Villese | | **18-9** | **GL.slam** | | 0-0 | mYi.Sitaux | | **5-2** | **IMP \| Capoch** | |
+| 2-3 | \_WWP\_Tim\_ | | 0-0 | \_Barles\_ | | **1-0** | **SalzZ\_Vinchester** | |
+</details>
 
-  <details>
-    <summary> Nicov</summary>
+<details>
+<summary> Nicov</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | [aM] Hera | **1-0** | **\_WWP\_Yo** | 0-0 | [aM]\_TheMbL\_ | 0-0 | \_WWP\_Vivi | 0-2 | GL.TheViper |
-|     1-3 | BacT | 1-3 | [aM] Liereyy | **1-0** | **miguel** | **2-1** | **TheMax** | 0-1 | GL.TaToH |
-|     0-0 | Modri | 1-2 | ACCM | **7-2** | **Villese** | **7-3** | **GL.slam** | 0-0 | mYi.Sitaux |
-|     0-1 | IMP \| Capoch | **2-1** | **\_WWP\_Tim\_** | **1-0** | **\_Barles\_** | 0-0 | SalzZ\_Vinchester |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | [aM] Hera | | **1-0** | **\_WWP\_Yo** | | 0-0 | [aM]\_TheMbL\_ | | 0-0 | \_WWP\_Vivi | |
+| 0-2 | GL.TheViper | | 1-3 | BacT | | 1-3 | [aM] Liereyy | | **1-0** | **miguel** | |
+| **2-1** | **TheMax** | | 0-1 | GL.TaToH | | 0-0 | Modri | | 1-2 | ACCM | |
+| **7-2** | **Villese** | | **7-3** | **GL.slam** | | 0-0 | mYi.Sitaux | | 0-1 | IMP \| Capoch | |
+| **2-1** | **\_WWP\_Tim\_** | | **1-0** | **\_Barles\_** | | 0-0 | SalzZ\_Vinchester | |
+</details>
 
-  <details>
-    <summary> GL.TaToH</summary>
+<details>
+<summary> GL.TaToH</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | [aM] Hera | 0-4 | \_WWP\_Yo | **1-0** | **Nicov** | 0-3 | [aM]\_TheMbL\_ | 2-5 | \_WWP\_Vivi |
-|     1-3 | GL.TheViper | 1-1 | BacT | **3-2** | **[aM] Liereyy** | **1-0** | **miguel** | 0-2 | TheMax |
-|     0-0 | Modri | 0-1 | ACCM | 2-4 | Villese | 0-0 | GL.slam | **1-0** | **mYi.Sitaux** |
-|     0-1 | IMP \| Capoch | **1-0** | **\_WWP\_Tim\_** | **1-0** | **\_Barles\_** | **4-2** | **SalzZ\_Vinchester** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | [aM] Hera | | 0-4 | \_WWP\_Yo | | **1-0** | **Nicov** | | 0-3 | [aM]\_TheMbL\_ | |
+| 2-5 | \_WWP\_Vivi | | 1-3 | GL.TheViper | | 1-1 | BacT | | **3-2** | **[aM] Liereyy** | |
+| **1-0** | **miguel** | | 0-2 | TheMax | | 0-0 | Modri | | 0-1 | ACCM | |
+| 2-4 | Villese | | 0-0 | GL.slam | | **1-0** | **mYi.Sitaux** | | 0-1 | IMP \| Capoch | |
+| **1-0** | **\_WWP\_Tim\_** | | **1-0** | **\_Barles\_** | | **4-2** | **SalzZ\_Vinchester** | |
+</details>
 
-  <details>
-    <summary> BacT</summary>
+<details>
+<summary> BacT</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | [aM] Hera | **2-1** | **\_WWP\_Yo** | **3-1** | **Nicov** | 1-4 | [aM]\_TheMbL\_ | 1-4 | \_WWP\_Vivi |
-|     0-0 | GL.TheViper | 0-1 | [aM] Liereyy | 0-0 | miguel | **1-0** | **TheMax** | 1-1 | GL.TaToH |
-|     0-1 | Modri | **23-17** | **ACCM** | **1-0** | **Villese** | **14-10** | **GL.slam** | 0-0 | mYi.Sitaux |
-|     3-6 | IMP \| Capoch | 0-0 | \_WWP\_Tim\_ | 0-1 | \_Barles\_ | 3-3 | SalzZ\_Vinchester |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | [aM] Hera | | **2-1** | **\_WWP\_Yo** | | **3-1** | **Nicov** | | 1-4 | [aM]\_TheMbL\_ | |
+| 1-4 | \_WWP\_Vivi | | 0-0 | GL.TheViper | | 0-1 | [aM] Liereyy | | 0-0 | miguel | |
+| **1-0** | **TheMax** | | 1-1 | GL.TaToH | | 0-1 | Modri | | **23-17** | **ACCM** | |
+| **1-0** | **Villese** | | **14-10** | **GL.slam** | | 0-0 | mYi.Sitaux | | 3-6 | IMP \| Capoch | |
+| 0-0 | \_WWP\_Tim\_ | | 0-1 | \_Barles\_ | | 3-3 | SalzZ\_Vinchester | |
+</details>
 
-  <details>
-    <summary> TheMax</summary>
+<details>
+<summary> TheMax</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | [aM] Hera | 0-0 | \_WWP\_Yo | 1-2 | Nicov | **3-1** | **[aM]\_TheMbL\_** | 2-2 | \_WWP\_Vivi |
-|     0-0 | GL.TheViper | 0-1 | BacT | 1-1 | [aM] Liereyy | 0-0 | miguel | **2-0** | **GL.TaToH** |
-|     0-0 | Modri | 0-0 | ACCM | 0-0 | Villese | 1-1 | GL.slam | 0-0 | mYi.Sitaux |
-|     **1-0** | **IMP \| Capoch** | 0-0 | \_WWP\_Tim\_ | **2-0** | **\_Barles\_** | 0-0 | SalzZ\_Vinchester |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | [aM] Hera | | 0-0 | \_WWP\_Yo | | 1-2 | Nicov | | **3-1** | **[aM]\_TheMbL\_** | |
+| 2-2 | \_WWP\_Vivi | | 0-0 | GL.TheViper | | 0-1 | BacT | | 1-1 | [aM] Liereyy | |
+| 0-0 | miguel | | **2-0** | **GL.TaToH** | | 0-0 | Modri | | 0-0 | ACCM | |
+| 0-0 | Villese | | 1-1 | GL.slam | | 0-0 | mYi.Sitaux | | **1-0** | **IMP \| Capoch** | |
+| 0-0 | \_WWP\_Tim\_ | | **2-0** | **\_Barles\_** | | 0-0 | SalzZ\_Vinchester | |
+</details>
 
-  <details>
-    <summary> _WWP_Yo</summary>
+<details>
+<summary> _WWP_Yo</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     6-8 | [aM] Hera | 0-1 | Nicov | **6-5** | **[aM]\_TheMbL\_** | **10-1** | **\_WWP\_Vivi** | 6-15 | GL.TheViper |
-|     1-2 | BacT | 0-2 | [aM] Liereyy | **2-1** | **miguel** | 0-0 | TheMax | **4-0** | **GL.TaToH** |
-|     0-0 | Modri | 0-1 | ACCM | 1-1 | Villese | 0-0 | GL.slam | 0-0 | mYi.Sitaux |
-|     0-0 | IMP \| Capoch | 0-0 | \_WWP\_Tim\_ | **2-0** | **\_Barles\_** | 0-0 | SalzZ\_Vinchester |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 6-8 | [aM] Hera | | 0-1 | Nicov | | **6-5** | **[aM]\_TheMbL\_** | | **10-1** | **\_WWP\_Vivi** | |
+| 6-15 | GL.TheViper | | 1-2 | BacT | | 0-2 | [aM] Liereyy | | **2-1** | **miguel** | |
+| 0-0 | TheMax | | **4-0** | **GL.TaToH** | | 0-0 | Modri | | 0-1 | ACCM | |
+| 1-1 | Villese | | 0-0 | GL.slam | | 0-0 | mYi.Sitaux | | 0-0 | IMP \| Capoch | |
+| 0-0 | \_WWP\_Tim\_ | | **2-0** | **\_Barles\_** | | 0-0 | SalzZ\_Vinchester | |
+</details>
 
-  <details>
-    <summary> SalzZ_Vinchester</summary>
+<details>
+<summary> SalzZ_Vinchester</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-1 | [aM] Hera | 0-0 | \_WWP\_Yo | 0-0 | Nicov | 3-3 | [aM]\_TheMbL\_ | **4-2** | **\_WWP\_Vivi** |
-|     **2-1** | **GL.TheViper** | 3-3 | BacT | 0-1 | [aM] Liereyy | 4-4 | miguel | 0-0 | TheMax |
-|     2-4 | GL.TaToH | 1-2 | Modri | 0-1 | ACCM | 0-1 | Villese | **11-8** | **GL.slam** |
-|     0-0 | mYi.Sitaux | 0-2 | IMP \| Capoch | 0-0 | \_WWP\_Tim\_ | 4-4 | \_Barles\_ |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-1 | [aM] Hera | | 0-0 | \_WWP\_Yo | | 0-0 | Nicov | | 3-3 | [aM]\_TheMbL\_ | |
+| **4-2** | **\_WWP\_Vivi** | | **2-1** | **GL.TheViper** | | 3-3 | BacT | | 0-1 | [aM] Liereyy | |
+| 4-4 | miguel | | 0-0 | TheMax | | 2-4 | GL.TaToH | | 1-2 | Modri | |
+| 0-1 | ACCM | | 0-1 | Villese | | **11-8** | **GL.slam** | | 0-0 | mYi.Sitaux | |
+| 0-2 | IMP \| Capoch | | 0-0 | \_WWP\_Tim\_ | | 4-4 | \_Barles\_ | |
+</details>
 
-  <details>
-    <summary> _WWP_Tim_</summary>
+<details>
+<summary> _WWP_Tim_</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | [aM] Hera | 0-0 | \_WWP\_Yo | 1-2 | Nicov | **1-0** | **[aM]\_TheMbL\_** | 0-3 | \_WWP\_Vivi |
-|     0-0 | GL.TheViper | 0-0 | BacT | 1-1 | [aM] Liereyy | 0-1 | miguel | 0-0 | TheMax |
-|     0-1 | GL.TaToH | 1-6 | Modri | **3-2** | **ACCM** | 0-0 | Villese | 1-2 | GL.slam |
-|     0-0 | mYi.Sitaux | **2-0** | **IMP \| Capoch** | 0-2 | \_Barles\_ | 0-0 | SalzZ\_Vinchester |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | [aM] Hera | | 0-0 | \_WWP\_Yo | | 1-2 | Nicov | | **1-0** | **[aM]\_TheMbL\_** | |
+| 0-3 | \_WWP\_Vivi | | 0-0 | GL.TheViper | | 0-0 | BacT | | 1-1 | [aM] Liereyy | |
+| 0-1 | miguel | | 0-0 | TheMax | | 0-1 | GL.TaToH | | 1-6 | Modri | |
+| **3-2** | **ACCM** | | 0-0 | Villese | | 1-2 | GL.slam | | 0-0 | mYi.Sitaux | |
+| **2-0** | **IMP \| Capoch** | | 0-2 | \_Barles\_ | | 0-0 | SalzZ\_Vinchester | |
+</details>
 
-  <details>
-    <summary> mYi.Sitaux</summary>
+<details>
+<summary> mYi.Sitaux</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | [aM] Hera | 0-0 | \_WWP\_Yo | 0-0 | Nicov | 0-1 | [aM]\_TheMbL\_ | 0-3 | \_WWP\_Vivi |
-|     0-0 | GL.TheViper | 0-0 | BacT | 0-1 | [aM] Liereyy | **2-0** | **miguel** | 0-0 | TheMax |
-|     0-1 | GL.TaToH | 0-0 | Modri | 0-0 | ACCM | 0-2 | Villese | 0-0 | GL.slam |
-|     **1-0** | **IMP \| Capoch** | 0-0 | \_WWP\_Tim\_ | 1-1 | \_Barles\_ | 0-0 | SalzZ\_Vinchester |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | [aM] Hera | | 0-0 | \_WWP\_Yo | | 0-0 | Nicov | | 0-1 | [aM]\_TheMbL\_ | |
+| 0-3 | \_WWP\_Vivi | | 0-0 | GL.TheViper | | 0-0 | BacT | | 0-1 | [aM] Liereyy | |
+| **2-0** | **miguel** | | 0-0 | TheMax | | 0-1 | GL.TaToH | | 0-0 | Modri | |
+| 0-0 | ACCM | | 0-2 | Villese | | 0-0 | GL.slam | | **1-0** | **IMP \| Capoch** | |
+| 0-0 | \_WWP\_Tim\_ | | 1-1 | \_Barles\_ | | 0-0 | SalzZ\_Vinchester | |
+</details>
 
-  <details>
-    <summary> _Barles_</summary>
+<details>
+<summary> _Barles_</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-1 | [aM] Hera | 0-2 | \_WWP\_Yo | 0-1 | Nicov | 0-5 | [aM]\_TheMbL\_ | 2-3 | \_WWP\_Vivi |
-|     **1-0** | **GL.TheViper** | **1-0** | **BacT** | 2-2 | [aM] Liereyy | 3-4 | miguel | 0-2 | TheMax |
-|     0-1 | GL.TaToH | 1-2 | Modri | 0-0 | ACCM | 0-3 | Villese | 1-1 | GL.slam |
-|     1-1 | mYi.Sitaux | **6-2** | **IMP \| Capoch** | **2-0** | **\_WWP\_Tim\_** | 4-4 | SalzZ\_Vinchester |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-1 | [aM] Hera | | 0-2 | \_WWP\_Yo | | 0-1 | Nicov | | 0-5 | [aM]\_TheMbL\_ | |
+| 2-3 | \_WWP\_Vivi | | **1-0** | **GL.TheViper** | | **1-0** | **BacT** | | 2-2 | [aM] Liereyy | |
+| 3-4 | miguel | | 0-2 | TheMax | | 0-1 | GL.TaToH | | 1-2 | Modri | |
+| 0-0 | ACCM | | 0-3 | Villese | | 1-1 | GL.slam | | 1-1 | mYi.Sitaux | |
+| **6-2** | **IMP \| Capoch** | | **2-0** | **\_WWP\_Tim\_** | | 4-4 | SalzZ\_Vinchester | |
+</details>
 
-  <details>
-    <summary> GL.slam</summary>
+<details>
+<summary> GL.slam</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | [aM] Hera | 0-0 | \_WWP\_Yo | 3-7 | Nicov | 9-14 | [aM]\_TheMbL\_ | 3-8 | \_WWP\_Vivi |
-|     0-0 | GL.TheViper | 10-14 | BacT | 1-1 | [aM] Liereyy | 0-0 | miguel | 1-1 | TheMax |
-|     0-0 | GL.TaToH | 0-0 | Modri | 9-18 | ACCM | 0-3 | Villese | 0-0 | mYi.Sitaux |
-|     **10-3** | **IMP \| Capoch** | **2-1** | **\_WWP\_Tim\_** | 1-1 | \_Barles\_ | 8-11 | SalzZ\_Vinchester |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | [aM] Hera | | 0-0 | \_WWP\_Yo | | 3-7 | Nicov | | 9-14 | [aM]\_TheMbL\_ | |
+| 3-8 | \_WWP\_Vivi | | 0-0 | GL.TheViper | | 10-14 | BacT | | 1-1 | [aM] Liereyy | |
+| 0-0 | miguel | | 1-1 | TheMax | | 0-0 | GL.TaToH | | 0-0 | Modri | |
+| 9-18 | ACCM | | 0-3 | Villese | | 0-0 | mYi.Sitaux | | **10-3** | **IMP \| Capoch** | |
+| **2-1** | **\_WWP\_Tim\_** | | 1-1 | \_Barles\_ | | 8-11 | SalzZ\_Vinchester | |
+</details>
 
-  <details>
-    <summary> IMP | Capoch</summary>
+<details>
+<summary> IMP | Capoch</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     4-6 | [aM] Hera | 0-0 | \_WWP\_Yo | **1-0** | **Nicov** | 3-7 | [aM]\_TheMbL\_ | 1-2 | \_WWP\_Vivi |
-|     0-1 | GL.TheViper | **6-3** | **BacT** | 1-2 | [aM] Liereyy | 1-1 | miguel | 0-1 | TheMax |
-|     **1-0** | **GL.TaToH** | 0-1 | Modri | 2-5 | ACCM | 1-1 | Villese | 3-10 | GL.slam |
-|     0-1 | mYi.Sitaux | 0-2 | \_WWP\_Tim\_ | 2-6 | \_Barles\_ | **2-0** | **SalzZ\_Vinchester** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4-6 | [aM] Hera | | 0-0 | \_WWP\_Yo | | **1-0** | **Nicov** | | 3-7 | [aM]\_TheMbL\_ | |
+| 1-2 | \_WWP\_Vivi | | 0-1 | GL.TheViper | | **6-3** | **BacT** | | 1-2 | [aM] Liereyy | |
+| 1-1 | miguel | | 0-1 | TheMax | | **1-0** | **GL.TaToH** | | 0-1 | Modri | |
+| 2-5 | ACCM | | 1-1 | Villese | | 3-10 | GL.slam | | 0-1 | mYi.Sitaux | |
+| 0-2 | \_WWP\_Tim\_ | | 2-6 | \_Barles\_ | | **2-0** | **SalzZ\_Vinchester** | |
+</details>
 
-  <details>
-    <summary> miguel</summary>
+<details>
+<summary> miguel</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-2 | [aM] Hera | 1-2 | \_WWP\_Yo | 0-1 | Nicov | 1-2 | [aM]\_TheMbL\_ | 1-2 | \_WWP\_Vivi |
-|     0-1 | GL.TheViper | 0-0 | BacT | 0-0 | [aM] Liereyy | 0-0 | TheMax | 0-1 | GL.TaToH |
-|     0-2 | Modri | 0-1 | ACCM | 0-1 | Villese | 0-0 | GL.slam | 0-2 | mYi.Sitaux |
-|     1-1 | IMP \| Capoch | **1-0** | **\_WWP\_Tim\_** | **4-3** | **\_Barles\_** | 4-4 | SalzZ\_Vinchester |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-2 | [aM] Hera | | 1-2 | \_WWP\_Yo | | 0-1 | Nicov | | 1-2 | [aM]\_TheMbL\_ | |
+| 1-2 | \_WWP\_Vivi | | 0-1 | GL.TheViper | | 0-0 | BacT | | 0-0 | [aM] Liereyy | |
+| 0-0 | TheMax | | 0-1 | GL.TaToH | | 0-2 | Modri | | 0-1 | ACCM | |
+| 0-1 | Villese | | 0-0 | GL.slam | | 0-2 | mYi.Sitaux | | 1-1 | IMP \| Capoch | |
+| **1-0** | **\_WWP\_Tim\_** | | **4-3** | **\_Barles\_** | | 4-4 | SalzZ\_Vinchester | |
+</details>
 
 <\blockquote>
 </details>
@@ -282,225 +302,245 @@
 <summary>Games</summary>
 <blockquote>
 
-  <details>
-    <summary> [aM] Hearttt</summary>
+<details>
+<summary> [aM] Hearttt</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     4-9 | HOANG | 16-16 | dogao | 0-0 | GL.DauT | 0-0 | saymyname | 0-1 | twitch.tv/st4rk\_ |
-|     14-18 | mYi.Daniel | 0-0 | \_WWP\_CL | **1-0** | **\_WWP\_lyx** | **6-1** | **Heresy \| LaN** | 2-2 | [KGB] F1Re |
-|     **9-4** | **IWC.Kasva** | **2-0** | **\_WWP\_AocEr\_PAL** | **3-0** | **Valas** | 0-0 | \_Ares\_StrayDog | **1-0** | **Running** |
-|     0-0 | GL.JorDan\_AoE | 0-0 | \_\_BadBoy\_\_ | **2-1** | **The\_Dragonstar** | **1-0** | **Fedex** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4-9 | HOANG | | 16-16 | dogao | | 0-0 | GL.DauT | | 0-0 | saymyname | |
+| 0-1 | twitch.tv/st4rk\_ | | 14-18 | mYi.Daniel | | 0-0 | \_WWP\_CL | | **1-0** | **\_WWP\_lyx** | |
+| **6-1** | **Heresy \| LaN** | | 2-2 | [KGB] F1Re | | **9-4** | **IWC.Kasva** | | **2-0** | **\_WWP\_AocEr\_PAL** | |
+| **3-0** | **Valas** | | 0-0 | \_Ares\_StrayDog | | **1-0** | **Running** | | 0-0 | GL.JorDan\_AoE | |
+| 0-0 | \_\_BadBoy\_\_ | | **2-1** | **The\_Dragonstar** | | **1-0** | **Fedex** | |
+</details>
 
-  <details>
-    <summary> __BadBoy__</summary>
+<details>
+<summary> __BadBoy__</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **10-6** | **HOANG** | **3-1** | **dogao** | **8-1** | **GL.DauT** | 4-6 | saymyname | 0-0 | twitch.tv/st4rk\_ |
-|     0-0 | mYi.Daniel | 0-0 | \_WWP\_CL | 0-0 | [aM] Hearttt | **1-0** | **\_WWP\_lyx** | 0-0 | Heresy \| LaN |
-|     0-0 | [KGB] F1Re | **4-2** | **IWC.Kasva** | **2-0** | **\_WWP\_AocEr\_PAL** | 0-0 | Valas | **1-0** | **\_Ares\_StrayDog** |
-|     0-0 | Running | 1-2 | GL.JorDan\_AoE | 0-0 | The\_Dragonstar | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **10-6** | **HOANG** | | **3-1** | **dogao** | | **8-1** | **GL.DauT** | | 4-6 | saymyname | |
+| 0-0 | twitch.tv/st4rk\_ | | 0-0 | mYi.Daniel | | 0-0 | \_WWP\_CL | | 0-0 | [aM] Hearttt | |
+| **1-0** | **\_WWP\_lyx** | | 0-0 | Heresy \| LaN | | 0-0 | [KGB] F1Re | | **4-2** | **IWC.Kasva** | |
+| **2-0** | **\_WWP\_AocEr\_PAL** | | 0-0 | Valas | | **1-0** | **\_Ares\_StrayDog** | | 0-0 | Running | |
+| 1-2 | GL.JorDan\_AoE | | 0-0 | The\_Dragonstar | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> dogao</summary>
+<details>
+<summary> dogao</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **2-1** | **HOANG** | **4-3** | **GL.DauT** | 0-0 | saymyname | **4-2** | **twitch.tv/st4rk\_** | **18-2** | **mYi.Daniel** |
-|     0-0 | \_WWP\_CL | 16-16 | [aM] Hearttt | 0-0 | \_WWP\_lyx | 2-4 | Heresy \| LaN | 1-1 | [KGB] F1Re |
-|     **4-0** | **IWC.Kasva** | **2-0** | **\_WWP\_AocEr\_PAL** | **3-0** | **Valas** | 1-1 | \_Ares\_StrayDog | 0-1 | Running |
-|     0-0 | GL.JorDan\_AoE | 1-3 | \_\_BadBoy\_\_ | 0-0 | The\_Dragonstar | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **2-1** | **HOANG** | | **4-3** | **GL.DauT** | | 0-0 | saymyname | | **4-2** | **twitch.tv/st4rk\_** | |
+| **18-2** | **mYi.Daniel** | | 0-0 | \_WWP\_CL | | 16-16 | [aM] Hearttt | | 0-0 | \_WWP\_lyx | |
+| 2-4 | Heresy \| LaN | | 1-1 | [KGB] F1Re | | **4-0** | **IWC.Kasva** | | **2-0** | **\_WWP\_AocEr\_PAL** | |
+| **3-0** | **Valas** | | 1-1 | \_Ares\_StrayDog | | 0-1 | Running | | 0-0 | GL.JorDan\_AoE | |
+| 1-3 | \_\_BadBoy\_\_ | | 0-0 | The\_Dragonstar | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> saymyname</summary>
+<details>
+<summary> saymyname</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **18-12** | **HOANG** | 0-0 | dogao | 0-0 | GL.DauT | 0-0 | twitch.tv/st4rk\_ | 0-0 | mYi.Daniel |
-|     0-0 | \_WWP\_CL | 0-0 | [aM] Hearttt | 0-0 | \_WWP\_lyx | 0-0 | Heresy \| LaN | **1-0** | **[KGB] F1Re** |
-|     0-0 | IWC.Kasva | **1-0** | **\_WWP\_AocEr\_PAL** | **2-0** | **Valas** | 1-2 | \_Ares\_StrayDog | 0-0 | Running |
-|     0-0 | GL.JorDan\_AoE | **6-4** | **\_\_BadBoy\_\_** | **4-0** | **The\_Dragonstar** | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **18-12** | **HOANG** | | 0-0 | dogao | | 0-0 | GL.DauT | | 0-0 | twitch.tv/st4rk\_ | |
+| 0-0 | mYi.Daniel | | 0-0 | \_WWP\_CL | | 0-0 | [aM] Hearttt | | 0-0 | \_WWP\_lyx | |
+| 0-0 | Heresy \| LaN | | **1-0** | **[KGB] F1Re** | | 0-0 | IWC.Kasva | | **1-0** | **\_WWP\_AocEr\_PAL** | |
+| **2-0** | **Valas** | | 1-2 | \_Ares\_StrayDog | | 0-0 | Running | | 0-0 | GL.JorDan\_AoE | |
+| **6-4** | **\_\_BadBoy\_\_** | | **4-0** | **The\_Dragonstar** | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> GL.JorDan_AoE</summary>
+<details>
+<summary> GL.JorDan_AoE</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **19-8** | **HOANG** | 0-0 | dogao | 7-15 | GL.DauT | 0-0 | saymyname | 0-0 | twitch.tv/st4rk\_ |
-|     0-0 | mYi.Daniel | 0-0 | \_WWP\_CL | 0-0 | [aM] Hearttt | **6-1** | **\_WWP\_lyx** | 1-3 | Heresy \| LaN |
-|     0-2 | [KGB] F1Re | 1-2 | IWC.Kasva | **2-0** | **\_WWP\_AocEr\_PAL** | **8-3** | **Valas** | **4-0** | **\_Ares\_StrayDog** |
-|     **7-4** | **Running** | **2-1** | **\_\_BadBoy\_\_** | 0-0 | The\_Dragonstar | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **19-8** | **HOANG** | | 0-0 | dogao | | 7-15 | GL.DauT | | 0-0 | saymyname | |
+| 0-0 | twitch.tv/st4rk\_ | | 0-0 | mYi.Daniel | | 0-0 | \_WWP\_CL | | 0-0 | [aM] Hearttt | |
+| **6-1** | **\_WWP\_lyx** | | 1-3 | Heresy \| LaN | | 0-2 | [KGB] F1Re | | 1-2 | IWC.Kasva | |
+| **2-0** | **\_WWP\_AocEr\_PAL** | | **8-3** | **Valas** | | **4-0** | **\_Ares\_StrayDog** | | **7-4** | **Running** | |
+| **2-1** | **\_\_BadBoy\_\_** | | 0-0 | The\_Dragonstar | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> Heresy | LaN</summary>
+<details>
+<summary> Heresy | LaN</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **13-8** | **HOANG** | **4-2** | **dogao** | 0-0 | GL.DauT | 0-0 | saymyname | 0-0 | twitch.tv/st4rk\_ |
-|     1-1 | mYi.Daniel | 0-0 | \_WWP\_CL | 1-6 | [aM] Hearttt | 0-0 | \_WWP\_lyx | 0-0 | [KGB] F1Re |
-|     **4-1** | **IWC.Kasva** | **1-0** | **\_WWP\_AocEr\_PAL** | 0-0 | Valas | 0-2 | \_Ares\_StrayDog | **7-3** | **Running** |
-|     **3-1** | **GL.JorDan\_AoE** | 0-0 | \_\_BadBoy\_\_ | 0-0 | The\_Dragonstar | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **13-8** | **HOANG** | | **4-2** | **dogao** | | 0-0 | GL.DauT | | 0-0 | saymyname | |
+| 0-0 | twitch.tv/st4rk\_ | | 1-1 | mYi.Daniel | | 0-0 | \_WWP\_CL | | 1-6 | [aM] Hearttt | |
+| 0-0 | \_WWP\_lyx | | 0-0 | [KGB] F1Re | | **4-1** | **IWC.Kasva** | | **1-0** | **\_WWP\_AocEr\_PAL** | |
+| 0-0 | Valas | | 0-2 | \_Ares\_StrayDog | | **7-3** | **Running** | | **3-1** | **GL.JorDan\_AoE** | |
+| 0-0 | \_\_BadBoy\_\_ | | 0-0 | The\_Dragonstar | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> HOANG</summary>
+<details>
+<summary> HOANG</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     1-2 | dogao | 1-7 | GL.DauT | 12-18 | saymyname | **3-0** | **twitch.tv/st4rk\_** | **1-0** | **mYi.Daniel** |
-|     **4-1** | **\_WWP\_CL** | **9-4** | **[aM] Hearttt** | **16-15** | **\_WWP\_lyx** | 8-13 | Heresy \| LaN | 1-4 | [KGB] F1Re |
-|     2-5 | IWC.Kasva | 9-9 | \_WWP\_AocEr\_PAL | **8-2** | **Valas** | **9-5** | **\_Ares\_StrayDog** | **5-3** | **Running** |
-|     8-19 | GL.JorDan\_AoE | 6-10 | \_\_BadBoy\_\_ | 2-3 | The\_Dragonstar | **2-1** | **Fedex** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-2 | dogao | | 1-7 | GL.DauT | | 12-18 | saymyname | | **3-0** | **twitch.tv/st4rk\_** | |
+| **1-0** | **mYi.Daniel** | | **4-1** | **\_WWP\_CL** | | **9-4** | **[aM] Hearttt** | | **16-15** | **\_WWP\_lyx** | |
+| 8-13 | Heresy \| LaN | | 1-4 | [KGB] F1Re | | 2-5 | IWC.Kasva | | 9-9 | \_WWP\_AocEr\_PAL | |
+| **8-2** | **Valas** | | **9-5** | **\_Ares\_StrayDog** | | **5-3** | **Running** | | 8-19 | GL.JorDan\_AoE | |
+| 6-10 | \_\_BadBoy\_\_ | | 2-3 | The\_Dragonstar | | **2-1** | **Fedex** | |
+</details>
 
-  <details>
-    <summary> mYi.Daniel</summary>
+<details>
+<summary> mYi.Daniel</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-1 | HOANG | 2-18 | dogao | 4-7 | GL.DauT | 0-0 | saymyname | **1-0** | **twitch.tv/st4rk\_** |
-|     0-0 | \_WWP\_CL | **18-14** | **[aM] Hearttt** | **2-0** | **\_WWP\_lyx** | 1-1 | Heresy \| LaN | 1-1 | [KGB] F1Re |
-|     **5-1** | **IWC.Kasva** | **2-0** | **\_WWP\_AocEr\_PAL** | 0-0 | Valas | 0-0 | \_Ares\_StrayDog | 0-0 | Running |
-|     0-0 | GL.JorDan\_AoE | 0-0 | \_\_BadBoy\_\_ | **2-0** | **The\_Dragonstar** | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-1 | HOANG | | 2-18 | dogao | | 4-7 | GL.DauT | | 0-0 | saymyname | |
+| **1-0** | **twitch.tv/st4rk\_** | | 0-0 | \_WWP\_CL | | **18-14** | **[aM] Hearttt** | | **2-0** | **\_WWP\_lyx** | |
+| 1-1 | Heresy \| LaN | | 1-1 | [KGB] F1Re | | **5-1** | **IWC.Kasva** | | **2-0** | **\_WWP\_AocEr\_PAL** | |
+| 0-0 | Valas | | 0-0 | \_Ares\_StrayDog | | 0-0 | Running | | 0-0 | GL.JorDan\_AoE | |
+| 0-0 | \_\_BadBoy\_\_ | | **2-0** | **The\_Dragonstar** | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> Running</summary>
+<details>
+<summary> Running</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     3-5 | HOANG | **1-0** | **dogao** | **1-0** | **GL.DauT** | 0-0 | saymyname | **1-0** | **twitch.tv/st4rk\_** |
-|     0-0 | mYi.Daniel | 0-0 | \_WWP\_CL | 0-1 | [aM] Hearttt | 0-0 | \_WWP\_lyx | 3-7 | Heresy \| LaN |
-|     **2-0** | **[KGB] F1Re** | **2-0** | **IWC.Kasva** | 1-2 | \_WWP\_AocEr\_PAL | 0-2 | Valas | **1-0** | **\_Ares\_StrayDog** |
-|     4-7 | GL.JorDan\_AoE | 0-0 | \_\_BadBoy\_\_ | **1-0** | **The\_Dragonstar** | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3-5 | HOANG | | **1-0** | **dogao** | | **1-0** | **GL.DauT** | | 0-0 | saymyname | |
+| **1-0** | **twitch.tv/st4rk\_** | | 0-0 | mYi.Daniel | | 0-0 | \_WWP\_CL | | 0-1 | [aM] Hearttt | |
+| 0-0 | \_WWP\_lyx | | 3-7 | Heresy \| LaN | | **2-0** | **[KGB] F1Re** | | **2-0** | **IWC.Kasva** | |
+| 1-2 | \_WWP\_AocEr\_PAL | | 0-2 | Valas | | **1-0** | **\_Ares\_StrayDog** | | 4-7 | GL.JorDan\_AoE | |
+| 0-0 | \_\_BadBoy\_\_ | | **1-0** | **The\_Dragonstar** | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> _Ares_StrayDog</summary>
+<details>
+<summary> _Ares_StrayDog</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     5-9 | HOANG | 1-1 | dogao | **1-0** | **GL.DauT** | **2-1** | **saymyname** | 0-0 | twitch.tv/st4rk\_ |
-|     0-0 | mYi.Daniel | 0-0 | \_WWP\_CL | 0-0 | [aM] Hearttt | 1-4 | \_WWP\_lyx | **2-0** | **Heresy \| LaN** |
-|     0-0 | [KGB] F1Re | 0-1 | IWC.Kasva | 0-0 | \_WWP\_AocEr\_PAL | **2-0** | **Valas** | 0-1 | Running |
-|     0-4 | GL.JorDan\_AoE | 0-1 | \_\_BadBoy\_\_ | **1-0** | **The\_Dragonstar** | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5-9 | HOANG | | 1-1 | dogao | | **1-0** | **GL.DauT** | | **2-1** | **saymyname** | |
+| 0-0 | twitch.tv/st4rk\_ | | 0-0 | mYi.Daniel | | 0-0 | \_WWP\_CL | | 0-0 | [aM] Hearttt | |
+| 1-4 | \_WWP\_lyx | | **2-0** | **Heresy \| LaN** | | 0-0 | [KGB] F1Re | | 0-1 | IWC.Kasva | |
+| 0-0 | \_WWP\_AocEr\_PAL | | **2-0** | **Valas** | | 0-1 | Running | | 0-4 | GL.JorDan\_AoE | |
+| 0-1 | \_\_BadBoy\_\_ | | **1-0** | **The\_Dragonstar** | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> IWC.Kasva</summary>
+<details>
+<summary> IWC.Kasva</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **5-2** | **HOANG** | 0-4 | dogao | **4-3** | **GL.DauT** | 0-0 | saymyname | **4-2** | **twitch.tv/st4rk\_** |
-|     1-5 | mYi.Daniel | 0-0 | \_WWP\_CL | 4-9 | [aM] Hearttt | 0-0 | \_WWP\_lyx | 1-4 | Heresy \| LaN |
-|     0-0 | [KGB] F1Re | 0-1 | \_WWP\_AocEr\_PAL | 2-2 | Valas | **1-0** | **\_Ares\_StrayDog** | 0-2 | Running |
-|     **2-1** | **GL.JorDan\_AoE** | 2-4 | \_\_BadBoy\_\_ | 1-1 | The\_Dragonstar | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **5-2** | **HOANG** | | 0-4 | dogao | | **4-3** | **GL.DauT** | | 0-0 | saymyname | |
+| **4-2** | **twitch.tv/st4rk\_** | | 1-5 | mYi.Daniel | | 0-0 | \_WWP\_CL | | 4-9 | [aM] Hearttt | |
+| 0-0 | \_WWP\_lyx | | 1-4 | Heresy \| LaN | | 0-0 | [KGB] F1Re | | 0-1 | \_WWP\_AocEr\_PAL | |
+| 2-2 | Valas | | **1-0** | **\_Ares\_StrayDog** | | 0-2 | Running | | **2-1** | **GL.JorDan\_AoE** | |
+| 2-4 | \_\_BadBoy\_\_ | | 1-1 | The\_Dragonstar | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> GL.DauT</summary>
+<details>
+<summary> GL.DauT</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **7-1** | **HOANG** | 3-4 | dogao | 0-0 | saymyname | 0-0 | twitch.tv/st4rk\_ | **7-4** | **mYi.Daniel** |
-|     0-0 | \_WWP\_CL | 0-0 | [aM] Hearttt | 0-0 | \_WWP\_lyx | 0-0 | Heresy \| LaN | 0-0 | [KGB] F1Re |
-|     3-4 | IWC.Kasva | 0-0 | \_WWP\_AocEr\_PAL | 0-0 | Valas | 0-1 | \_Ares\_StrayDog | 0-1 | Running |
-|     **15-7** | **GL.JorDan\_AoE** | 1-8 | \_\_BadBoy\_\_ | **2-0** | **The\_Dragonstar** | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **7-1** | **HOANG** | | 3-4 | dogao | | 0-0 | saymyname | | 0-0 | twitch.tv/st4rk\_ | |
+| **7-4** | **mYi.Daniel** | | 0-0 | \_WWP\_CL | | 0-0 | [aM] Hearttt | | 0-0 | \_WWP\_lyx | |
+| 0-0 | Heresy \| LaN | | 0-0 | [KGB] F1Re | | 3-4 | IWC.Kasva | | 0-0 | \_WWP\_AocEr\_PAL | |
+| 0-0 | Valas | | 0-1 | \_Ares\_StrayDog | | 0-1 | Running | | **15-7** | **GL.JorDan\_AoE** | |
+| 1-8 | \_\_BadBoy\_\_ | | **2-0** | **The\_Dragonstar** | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> [KGB] F1Re</summary>
+<details>
+<summary> [KGB] F1Re</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **4-1** | **HOANG** | 1-1 | dogao | 0-0 | GL.DauT | 0-1 | saymyname | **1-0** | **twitch.tv/st4rk\_** |
-|     1-1 | mYi.Daniel | 0-0 | \_WWP\_CL | 2-2 | [aM] Hearttt | 0-0 | \_WWP\_lyx | 0-0 | Heresy \| LaN |
-|     0-0 | IWC.Kasva | 0-0 | \_WWP\_AocEr\_PAL | 0-1 | Valas | 0-0 | \_Ares\_StrayDog | 0-2 | Running |
-|     **2-0** | **GL.JorDan\_AoE** | 0-0 | \_\_BadBoy\_\_ | 0-0 | The\_Dragonstar | 0-1 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **4-1** | **HOANG** | | 1-1 | dogao | | 0-0 | GL.DauT | | 0-1 | saymyname | |
+| **1-0** | **twitch.tv/st4rk\_** | | 1-1 | mYi.Daniel | | 0-0 | \_WWP\_CL | | 2-2 | [aM] Hearttt | |
+| 0-0 | \_WWP\_lyx | | 0-0 | Heresy \| LaN | | 0-0 | IWC.Kasva | | 0-0 | \_WWP\_AocEr\_PAL | |
+| 0-1 | Valas | | 0-0 | \_Ares\_StrayDog | | 0-2 | Running | | **2-0** | **GL.JorDan\_AoE** | |
+| 0-0 | \_\_BadBoy\_\_ | | 0-0 | The\_Dragonstar | | 0-1 | Fedex | |
+</details>
 
-  <details>
-    <summary> _WWP_CL</summary>
+<details>
+<summary> _WWP_CL</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     1-4 | HOANG | 0-0 | dogao | 0-0 | GL.DauT | 0-0 | saymyname | 0-0 | twitch.tv/st4rk\_ |
-|     0-0 | mYi.Daniel | 0-0 | [aM] Hearttt | 0-0 | \_WWP\_lyx | 0-0 | Heresy \| LaN | 0-0 | [KGB] F1Re |
-|     0-0 | IWC.Kasva | **1-0** | **\_WWP\_AocEr\_PAL** | 0-0 | Valas | 0-0 | \_Ares\_StrayDog | 0-0 | Running |
-|     0-0 | GL.JorDan\_AoE | 0-0 | \_\_BadBoy\_\_ | 0-0 | The\_Dragonstar | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-4 | HOANG | | 0-0 | dogao | | 0-0 | GL.DauT | | 0-0 | saymyname | |
+| 0-0 | twitch.tv/st4rk\_ | | 0-0 | mYi.Daniel | | 0-0 | [aM] Hearttt | | 0-0 | \_WWP\_lyx | |
+| 0-0 | Heresy \| LaN | | 0-0 | [KGB] F1Re | | 0-0 | IWC.Kasva | | **1-0** | **\_WWP\_AocEr\_PAL** | |
+| 0-0 | Valas | | 0-0 | \_Ares\_StrayDog | | 0-0 | Running | | 0-0 | GL.JorDan\_AoE | |
+| 0-0 | \_\_BadBoy\_\_ | | 0-0 | The\_Dragonstar | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> _WWP_lyx</summary>
+<details>
+<summary> _WWP_lyx</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     15-16 | HOANG | 0-0 | dogao | 0-0 | GL.DauT | 0-0 | saymyname | 0-0 | twitch.tv/st4rk\_ |
-|     0-2 | mYi.Daniel | 0-0 | \_WWP\_CL | 0-1 | [aM] Hearttt | 0-0 | Heresy \| LaN | 0-0 | [KGB] F1Re |
-|     0-0 | IWC.Kasva | **3-0** | **\_WWP\_AocEr\_PAL** | **2-1** | **Valas** | **4-1** | **\_Ares\_StrayDog** | 0-0 | Running |
-|     1-6 | GL.JorDan\_AoE | 0-1 | \_\_BadBoy\_\_ | 0-1 | The\_Dragonstar | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 15-16 | HOANG | | 0-0 | dogao | | 0-0 | GL.DauT | | 0-0 | saymyname | |
+| 0-0 | twitch.tv/st4rk\_ | | 0-2 | mYi.Daniel | | 0-0 | \_WWP\_CL | | 0-1 | [aM] Hearttt | |
+| 0-0 | Heresy \| LaN | | 0-0 | [KGB] F1Re | | 0-0 | IWC.Kasva | | **3-0** | **\_WWP\_AocEr\_PAL** | |
+| **2-1** | **Valas** | | **4-1** | **\_Ares\_StrayDog** | | 0-0 | Running | | 1-6 | GL.JorDan\_AoE | |
+| 0-1 | \_\_BadBoy\_\_ | | 0-1 | The\_Dragonstar | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> Fedex</summary>
+<details>
+<summary> Fedex</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     1-2 | HOANG | 0-0 | dogao | 0-0 | GL.DauT | 0-0 | saymyname | 0-0 | twitch.tv/st4rk\_ |
-|     0-0 | mYi.Daniel | 0-0 | \_WWP\_CL | 0-1 | [aM] Hearttt | 0-0 | \_WWP\_lyx | 0-0 | Heresy \| LaN |
-|     **1-0** | **[KGB] F1Re** | 0-0 | IWC.Kasva | 0-0 | \_WWP\_AocEr\_PAL | 0-0 | Valas | 0-0 | \_Ares\_StrayDog |
-|     0-0 | Running | 0-0 | GL.JorDan\_AoE | 0-0 | \_\_BadBoy\_\_ | 0-0 | The\_Dragonstar |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-2 | HOANG | | 0-0 | dogao | | 0-0 | GL.DauT | | 0-0 | saymyname | |
+| 0-0 | twitch.tv/st4rk\_ | | 0-0 | mYi.Daniel | | 0-0 | \_WWP\_CL | | 0-1 | [aM] Hearttt | |
+| 0-0 | \_WWP\_lyx | | 0-0 | Heresy \| LaN | | **1-0** | **[KGB] F1Re** | | 0-0 | IWC.Kasva | |
+| 0-0 | \_WWP\_AocEr\_PAL | | 0-0 | Valas | | 0-0 | \_Ares\_StrayDog | | 0-0 | Running | |
+| 0-0 | GL.JorDan\_AoE | | 0-0 | \_\_BadBoy\_\_ | | 0-0 | The\_Dragonstar | |
+</details>
 
-  <details>
-    <summary> The_Dragonstar</summary>
+<details>
+<summary> The_Dragonstar</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **3-2** | **HOANG** | 0-0 | dogao | 0-2 | GL.DauT | 0-4 | saymyname | 1-1 | twitch.tv/st4rk\_ |
-|     0-2 | mYi.Daniel | 0-0 | \_WWP\_CL | 1-2 | [aM] Hearttt | **1-0** | **\_WWP\_lyx** | 0-0 | Heresy \| LaN |
-|     0-0 | [KGB] F1Re | 1-1 | IWC.Kasva | 0-1 | \_WWP\_AocEr\_PAL | **1-0** | **Valas** | 0-1 | \_Ares\_StrayDog |
-|     0-1 | Running | 0-0 | GL.JorDan\_AoE | 0-0 | \_\_BadBoy\_\_ | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **3-2** | **HOANG** | | 0-0 | dogao | | 0-2 | GL.DauT | | 0-4 | saymyname | |
+| 1-1 | twitch.tv/st4rk\_ | | 0-2 | mYi.Daniel | | 0-0 | \_WWP\_CL | | 1-2 | [aM] Hearttt | |
+| **1-0** | **\_WWP\_lyx** | | 0-0 | Heresy \| LaN | | 0-0 | [KGB] F1Re | | 1-1 | IWC.Kasva | |
+| 0-1 | \_WWP\_AocEr\_PAL | | **1-0** | **Valas** | | 0-1 | \_Ares\_StrayDog | | 0-1 | Running | |
+| 0-0 | GL.JorDan\_AoE | | 0-0 | \_\_BadBoy\_\_ | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> _WWP_AocEr_PAL</summary>
+<details>
+<summary> _WWP_AocEr_PAL</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     9-9 | HOANG | 0-2 | dogao | 0-0 | GL.DauT | 0-1 | saymyname | **1-0** | **twitch.tv/st4rk\_** |
-|     0-2 | mYi.Daniel | 0-1 | \_WWP\_CL | 0-2 | [aM] Hearttt | 0-3 | \_WWP\_lyx | 0-1 | Heresy \| LaN |
-|     0-0 | [KGB] F1Re | **1-0** | **IWC.Kasva** | 0-3 | Valas | 0-0 | \_Ares\_StrayDog | **2-1** | **Running** |
-|     0-2 | GL.JorDan\_AoE | 0-2 | \_\_BadBoy\_\_ | **1-0** | **The\_Dragonstar** | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 9-9 | HOANG | | 0-2 | dogao | | 0-0 | GL.DauT | | 0-1 | saymyname | |
+| **1-0** | **twitch.tv/st4rk\_** | | 0-2 | mYi.Daniel | | 0-1 | \_WWP\_CL | | 0-2 | [aM] Hearttt | |
+| 0-3 | \_WWP\_lyx | | 0-1 | Heresy \| LaN | | 0-0 | [KGB] F1Re | | **1-0** | **IWC.Kasva** | |
+| 0-3 | Valas | | 0-0 | \_Ares\_StrayDog | | **2-1** | **Running** | | 0-2 | GL.JorDan\_AoE | |
+| 0-2 | \_\_BadBoy\_\_ | | **1-0** | **The\_Dragonstar** | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> Valas</summary>
+<details>
+<summary> Valas</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     2-8 | HOANG | 0-3 | dogao | 0-0 | GL.DauT | 0-2 | saymyname | 0-0 | twitch.tv/st4rk\_ |
-|     0-0 | mYi.Daniel | 0-0 | \_WWP\_CL | 0-3 | [aM] Hearttt | 1-2 | \_WWP\_lyx | 0-0 | Heresy \| LaN |
-|     **1-0** | **[KGB] F1Re** | 2-2 | IWC.Kasva | **3-0** | **\_WWP\_AocEr\_PAL** | 0-2 | \_Ares\_StrayDog | **2-0** | **Running** |
-|     3-8 | GL.JorDan\_AoE | 0-0 | \_\_BadBoy\_\_ | 0-1 | The\_Dragonstar | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2-8 | HOANG | | 0-3 | dogao | | 0-0 | GL.DauT | | 0-2 | saymyname | |
+| 0-0 | twitch.tv/st4rk\_ | | 0-0 | mYi.Daniel | | 0-0 | \_WWP\_CL | | 0-3 | [aM] Hearttt | |
+| 1-2 | \_WWP\_lyx | | 0-0 | Heresy \| LaN | | **1-0** | **[KGB] F1Re** | | 2-2 | IWC.Kasva | |
+| **3-0** | **\_WWP\_AocEr\_PAL** | | 0-2 | \_Ares\_StrayDog | | **2-0** | **Running** | | 3-8 | GL.JorDan\_AoE | |
+| 0-0 | \_\_BadBoy\_\_ | | 0-1 | The\_Dragonstar | | 0-0 | Fedex | |
+</details>
 
-  <details>
-    <summary> twitch.tv/st4rk_</summary>
+<details>
+<summary> twitch.tv/st4rk_</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-3 | HOANG | 2-4 | dogao | 0-0 | GL.DauT | 0-0 | saymyname | 0-1 | mYi.Daniel |
-|     0-0 | \_WWP\_CL | **1-0** | **[aM] Hearttt** | 0-0 | \_WWP\_lyx | 0-0 | Heresy \| LaN | 0-1 | [KGB] F1Re |
-|     2-4 | IWC.Kasva | 0-1 | \_WWP\_AocEr\_PAL | 0-0 | Valas | 0-0 | \_Ares\_StrayDog | 0-1 | Running |
-|     0-0 | GL.JorDan\_AoE | 0-0 | \_\_BadBoy\_\_ | 1-1 | The\_Dragonstar | 0-0 | Fedex |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-3 | HOANG | | 2-4 | dogao | | 0-0 | GL.DauT | | 0-0 | saymyname | |
+| 0-1 | mYi.Daniel | | 0-0 | \_WWP\_CL | | **1-0** | **[aM] Hearttt** | | 0-0 | \_WWP\_lyx | |
+| 0-0 | Heresy \| LaN | | 0-1 | [KGB] F1Re | | 2-4 | IWC.Kasva | | 0-1 | \_WWP\_AocEr\_PAL | |
+| 0-0 | Valas | | 0-0 | \_Ares\_StrayDog | | 0-1 | Running | | 0-0 | GL.JorDan\_AoE | |
+| 0-0 | \_\_BadBoy\_\_ | | 1-1 | The\_Dragonstar | | 0-0 | Fedex | |
+</details>
 
 <\blockquote>
 </details>
@@ -534,225 +574,245 @@
 <summary>Games</summary>
 <blockquote>
 
-  <details>
-    <summary> bruh</summary>
+<details>
+<summary> bruh</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **4-3** | **Twigg** | **5-1** | **mYi.PROject\_Belgium** | 1-4 | Babaorum | 1-1 | SongSong\_AOE | **2-1** | **Zuppi** |
-|     0-0 | \_WWP\_ming | **1-0** | **RiskyDice** | **3-0** | **GL.Nili** | **1-0** | **chart** | 1-1 | [KGB] RiuT |
-|     **5-1** | **repard** | **1-0** | **神明与她** | 0-0 | 曹孟德 | **2-1** | **啊错** | 0-0 | Fish |
-|     **2-1** | **old rise** | 0-0 | Jackk | 0-0 | A bao' | 0-0 | Scotty |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **4-3** | **Twigg** | | **5-1** | **mYi.PROject\_Belgium** | | 1-4 | Babaorum | | 1-1 | SongSong\_AOE | |
+| **2-1** | **Zuppi** | | 0-0 | \_WWP\_ming | | **1-0** | **RiskyDice** | | **3-0** | **GL.Nili** | |
+| **1-0** | **chart** | | 1-1 | [KGB] RiuT | | **5-1** | **repard** | | **1-0** | **神明与她** | |
+| 0-0 | 曹孟德 | | **2-1** | **啊错** | | 0-0 | Fish | | **2-1** | **old rise** | |
+| 0-0 | Jackk | | 0-0 | A bao' | | 0-0 | Scotty | |
+</details>
 
-  <details>
-    <summary> chart</summary>
+<details>
+<summary> chart</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Twigg | 0-1 | mYi.PROject\_Belgium | 0-1 | bruh | **2-1** | **Babaorum** | **3-0** | **SongSong\_AOE** |
-|     2-5 | Zuppi | 0-0 | \_WWP\_ming | 0-0 | RiskyDice | **1-0** | **GL.Nili** | 0-0 | [KGB] RiuT |
-|     **2-0** | **repard** | 0-0 | 神明与她 | 0-0 | 曹孟德 | **7-3** | **啊错** | **1-0** | **Fish** |
-|     **1-0** | **old rise** | **1-0** | **Jackk** | **1-0** | **A bao'** | **1-0** | **Scotty** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Twigg | | 0-1 | mYi.PROject\_Belgium | | 0-1 | bruh | | **2-1** | **Babaorum** | |
+| **3-0** | **SongSong\_AOE** | | 2-5 | Zuppi | | 0-0 | \_WWP\_ming | | 0-0 | RiskyDice | |
+| **1-0** | **GL.Nili** | | 0-0 | [KGB] RiuT | | **2-0** | **repard** | | 0-0 | 神明与她 | |
+| 0-0 | 曹孟德 | | **7-3** | **啊错** | | **1-0** | **Fish** | | **1-0** | **old rise** | |
+| **1-0** | **Jackk** | | **1-0** | **A bao'** | | **1-0** | **Scotty** | |
+</details>
 
-  <details>
-    <summary> Zuppi</summary>
+<details>
+<summary> Zuppi</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     1-1 | Twigg | **13-10** | **mYi.PROject\_Belgium** | 1-2 | bruh | **2-1** | **Babaorum** | 2-3 | SongSong\_AOE |
-|     0-1 | \_WWP\_ming | 0-1 | RiskyDice | **4-1** | **GL.Nili** | **5-2** | **chart** | 0-0 | [KGB] RiuT |
-|     **4-3** | **repard** | **2-0** | **神明与她** | 0-0 | 曹孟德 | **5-0** | **啊错** | 0-0 | Fish |
-|     **1-0** | **old rise** | 0-0 | Jackk | 0-0 | A bao' | 0-0 | Scotty |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-1 | Twigg | | **13-10** | **mYi.PROject\_Belgium** | | 1-2 | bruh | | **2-1** | **Babaorum** | |
+| 2-3 | SongSong\_AOE | | 0-1 | \_WWP\_ming | | 0-1 | RiskyDice | | **4-1** | **GL.Nili** | |
+| **5-2** | **chart** | | 0-0 | [KGB] RiuT | | **4-3** | **repard** | | **2-0** | **神明与她** | |
+| 0-0 | 曹孟德 | | **5-0** | **啊错** | | 0-0 | Fish | | **1-0** | **old rise** | |
+| 0-0 | Jackk | | 0-0 | A bao' | | 0-0 | Scotty | |
+</details>
 
-  <details>
-    <summary> RiskyDice</summary>
+<details>
+<summary> RiskyDice</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Twigg | **2-1** | **mYi.PROject\_Belgium** | 0-1 | bruh | **1-0** | **Babaorum** | 0-0 | SongSong\_AOE |
-|     **1-0** | **Zuppi** | 0-0 | \_WWP\_ming | 0-0 | GL.Nili | 0-0 | chart | 0-0 | [KGB] RiuT |
-|     1-1 | repard | 0-0 | 神明与她 | 0-0 | 曹孟德 | **2-0** | **啊错** | **1-0** | **Fish** |
-|     **1-0** | **old rise** | 0-0 | Jackk | 0-0 | A bao' | 0-0 | Scotty |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Twigg | | **2-1** | **mYi.PROject\_Belgium** | | 0-1 | bruh | | **1-0** | **Babaorum** | |
+| 0-0 | SongSong\_AOE | | **1-0** | **Zuppi** | | 0-0 | \_WWP\_ming | | 0-0 | GL.Nili | |
+| 0-0 | chart | | 0-0 | [KGB] RiuT | | 1-1 | repard | | 0-0 | 神明与她 | |
+| 0-0 | 曹孟德 | | **2-0** | **啊错** | | **1-0** | **Fish** | | **1-0** | **old rise** | |
+| 0-0 | Jackk | | 0-0 | A bao' | | 0-0 | Scotty | |
+</details>
 
-  <details>
-    <summary> Twigg</summary>
+<details>
+<summary> Twigg</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **1-0** | **mYi.PROject\_Belgium** | 3-4 | bruh | 0-0 | Babaorum | 1-1 | SongSong\_AOE | 1-1 | Zuppi |
-|     0-0 | \_WWP\_ming | 0-0 | RiskyDice | **2-0** | **GL.Nili** | 0-0 | chart | **7-1** | **[KGB] RiuT** |
-|     0-0 | repard | 0-0 | 神明与她 | 0-0 | 曹孟德 | 0-0 | 啊错 | 0-0 | Fish |
-|     **1-0** | **old rise** | 0-0 | Jackk | 0-0 | A bao' | **2-0** | **Scotty** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **1-0** | **mYi.PROject\_Belgium** | | 3-4 | bruh | | 0-0 | Babaorum | | 1-1 | SongSong\_AOE | |
+| 1-1 | Zuppi | | 0-0 | \_WWP\_ming | | 0-0 | RiskyDice | | **2-0** | **GL.Nili** | |
+| 0-0 | chart | | **7-1** | **[KGB] RiuT** | | 0-0 | repard | | 0-0 | 神明与她 | |
+| 0-0 | 曹孟德 | | 0-0 | 啊错 | | 0-0 | Fish | | **1-0** | **old rise** | |
+| 0-0 | Jackk | | 0-0 | A bao' | | **2-0** | **Scotty** | |
+</details>
 
-  <details>
-    <summary> mYi.PROject_Belgium</summary>
+<details>
+<summary> mYi.PROject_Belgium</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-1 | Twigg | 1-5 | bruh | **4-1** | **Babaorum** | 1-2 | SongSong\_AOE | 10-13 | Zuppi |
-|     0-1 | \_WWP\_ming | 1-2 | RiskyDice | **3-1** | **GL.Nili** | **1-0** | **chart** | 0-0 | [KGB] RiuT |
-|     1-1 | repard | 0-2 | 神明与她 | 0-0 | 曹孟德 | **5-0** | **啊错** | 0-0 | Fish |
-|     **1-0** | **old rise** | **2-1** | **Jackk** | **1-0** | **A bao'** | 0-0 | Scotty |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-1 | Twigg | | 1-5 | bruh | | **4-1** | **Babaorum** | | 1-2 | SongSong\_AOE | |
+| 10-13 | Zuppi | | 0-1 | \_WWP\_ming | | 1-2 | RiskyDice | | **3-1** | **GL.Nili** | |
+| **1-0** | **chart** | | 0-0 | [KGB] RiuT | | 1-1 | repard | | 0-2 | 神明与她 | |
+| 0-0 | 曹孟德 | | **5-0** | **啊错** | | 0-0 | Fish | | **1-0** | **old rise** | |
+| **2-1** | **Jackk** | | **1-0** | **A bao'** | | 0-0 | Scotty | |
+</details>
 
-  <details>
-    <summary> Babaorum</summary>
+<details>
+<summary> Babaorum</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Twigg | 1-4 | mYi.PROject\_Belgium | **4-1** | **bruh** | **5-4** | **SongSong\_AOE** | 1-2 | Zuppi |
-|     **3-0** | **\_WWP\_ming** | 0-1 | RiskyDice | 0-0 | GL.Nili | 1-2 | chart | 0-0 | [KGB] RiuT |
-|     **3-2** | **repard** | 0-0 | 神明与她 | 0-0 | 曹孟德 | 0-1 | 啊错 | 0-0 | Fish |
-|     **1-0** | **old rise** | 0-0 | Jackk | 0-0 | A bao' | **1-0** | **Scotty** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Twigg | | 1-4 | mYi.PROject\_Belgium | | **4-1** | **bruh** | | **5-4** | **SongSong\_AOE** | |
+| 1-2 | Zuppi | | **3-0** | **\_WWP\_ming** | | 0-1 | RiskyDice | | 0-0 | GL.Nili | |
+| 1-2 | chart | | 0-0 | [KGB] RiuT | | **3-2** | **repard** | | 0-0 | 神明与她 | |
+| 0-0 | 曹孟德 | | 0-1 | 啊错 | | 0-0 | Fish | | **1-0** | **old rise** | |
+| 0-0 | Jackk | | 0-0 | A bao' | | **1-0** | **Scotty** | |
+</details>
 
-  <details>
-    <summary> SongSong_AOE</summary>
+<details>
+<summary> SongSong_AOE</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     1-1 | Twigg | **2-1** | **mYi.PROject\_Belgium** | 1-1 | bruh | 4-5 | Babaorum | **3-2** | **Zuppi** |
-|     **1-0** | **\_WWP\_ming** | 0-0 | RiskyDice | 0-1 | GL.Nili | 0-3 | chart | 0-0 | [KGB] RiuT |
-|     1-1 | repard | 0-0 | 神明与她 | 0-0 | 曹孟德 | **2-1** | **啊错** | 0-2 | Fish |
-|     0-0 | old rise | 0-0 | Jackk | **2-0** | **A bao'** | 0-0 | Scotty |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-1 | Twigg | | **2-1** | **mYi.PROject\_Belgium** | | 1-1 | bruh | | 4-5 | Babaorum | |
+| **3-2** | **Zuppi** | | **1-0** | **\_WWP\_ming** | | 0-0 | RiskyDice | | 0-1 | GL.Nili | |
+| 0-3 | chart | | 0-0 | [KGB] RiuT | | 1-1 | repard | | 0-0 | 神明与她 | |
+| 0-0 | 曹孟德 | | **2-1** | **啊错** | | 0-2 | Fish | | 0-0 | old rise | |
+| 0-0 | Jackk | | **2-0** | **A bao'** | | 0-0 | Scotty | |
+</details>
 
-  <details>
-    <summary> Fish</summary>
+<details>
+<summary> Fish</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Twigg | 0-0 | mYi.PROject\_Belgium | 0-0 | bruh | 0-0 | Babaorum | **2-0** | **SongSong\_AOE** |
-|     0-0 | Zuppi | **1-0** | **\_WWP\_ming** | 0-1 | RiskyDice | 0-0 | GL.Nili | 0-1 | chart |
-|     0-0 | [KGB] RiuT | **3-0** | **repard** | 0-0 | 神明与她 | 0-0 | 曹孟德 | 0-0 | 啊错 |
-|     **1-0** | **old rise** | 0-0 | Jackk | 0-0 | A bao' | 0-0 | Scotty |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Twigg | | 0-0 | mYi.PROject\_Belgium | | 0-0 | bruh | | 0-0 | Babaorum | |
+| **2-0** | **SongSong\_AOE** | | 0-0 | Zuppi | | **1-0** | **\_WWP\_ming** | | 0-1 | RiskyDice | |
+| 0-0 | GL.Nili | | 0-1 | chart | | 0-0 | [KGB] RiuT | | **3-0** | **repard** | |
+| 0-0 | 神明与她 | | 0-0 | 曹孟德 | | 0-0 | 啊错 | | **1-0** | **old rise** | |
+| 0-0 | Jackk | | 0-0 | A bao' | | 0-0 | Scotty | |
+</details>
 
-  <details>
-    <summary> _WWP_ming</summary>
+<details>
+<summary> _WWP_ming</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Twigg | **1-0** | **mYi.PROject\_Belgium** | 0-0 | bruh | 0-3 | Babaorum | 0-1 | SongSong\_AOE |
-|     **1-0** | **Zuppi** | 0-0 | RiskyDice | 0-0 | GL.Nili | 0-0 | chart | 0-0 | [KGB] RiuT |
-|     0-0 | repard | **1-0** | **神明与她** | 0-0 | 曹孟德 | 0-0 | 啊错 | 0-1 | Fish |
-|     0-0 | old rise | 0-0 | Jackk | 0-0 | A bao' | 0-0 | Scotty |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Twigg | | **1-0** | **mYi.PROject\_Belgium** | | 0-0 | bruh | | 0-3 | Babaorum | |
+| 0-1 | SongSong\_AOE | | **1-0** | **Zuppi** | | 0-0 | RiskyDice | | 0-0 | GL.Nili | |
+| 0-0 | chart | | 0-0 | [KGB] RiuT | | 0-0 | repard | | **1-0** | **神明与她** | |
+| 0-0 | 曹孟德 | | 0-0 | 啊错 | | 0-1 | Fish | | 0-0 | old rise | |
+| 0-0 | Jackk | | 0-0 | A bao' | | 0-0 | Scotty | |
+</details>
 
-  <details>
-    <summary> [KGB] RiuT</summary>
+<details>
+<summary> [KGB] RiuT</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     1-7 | Twigg | 0-0 | mYi.PROject\_Belgium | 1-1 | bruh | 0-0 | Babaorum | 0-0 | SongSong\_AOE |
-|     0-0 | Zuppi | 0-0 | \_WWP\_ming | 0-0 | RiskyDice | 1-1 | GL.Nili | 0-0 | chart |
-|     0-0 | repard | **1-0** | **神明与她** | 0-0 | 曹孟德 | 0-0 | 啊错 | 0-0 | Fish |
-|     0-0 | old rise | 0-0 | Jackk | 0-0 | A bao' | **1-0** | **Scotty** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-7 | Twigg | | 0-0 | mYi.PROject\_Belgium | | 1-1 | bruh | | 0-0 | Babaorum | |
+| 0-0 | SongSong\_AOE | | 0-0 | Zuppi | | 0-0 | \_WWP\_ming | | 0-0 | RiskyDice | |
+| 1-1 | GL.Nili | | 0-0 | chart | | 0-0 | repard | | **1-0** | **神明与她** | |
+| 0-0 | 曹孟德 | | 0-0 | 啊错 | | 0-0 | Fish | | 0-0 | old rise | |
+| 0-0 | Jackk | | 0-0 | A bao' | | **1-0** | **Scotty** | |
+</details>
 
-  <details>
-    <summary> 啊错</summary>
+<details>
+<summary> 啊错</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Twigg | 0-5 | mYi.PROject\_Belgium | 1-2 | bruh | **1-0** | **Babaorum** | 1-2 | SongSong\_AOE |
-|     0-5 | Zuppi | 0-0 | \_WWP\_ming | 0-2 | RiskyDice | 0-0 | GL.Nili | 3-7 | chart |
-|     0-0 | [KGB] RiuT | 0-2 | repard | 0-0 | 神明与她 | 0-0 | 曹孟德 | 0-0 | Fish |
-|     **2-0** | **old rise** | **1-0** | **Jackk** | **2-1** | **A bao'** | 0-0 | Scotty |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Twigg | | 0-5 | mYi.PROject\_Belgium | | 1-2 | bruh | | **1-0** | **Babaorum** | |
+| 1-2 | SongSong\_AOE | | 0-5 | Zuppi | | 0-0 | \_WWP\_ming | | 0-2 | RiskyDice | |
+| 0-0 | GL.Nili | | 3-7 | chart | | 0-0 | [KGB] RiuT | | 0-2 | repard | |
+| 0-0 | 神明与她 | | 0-0 | 曹孟德 | | 0-0 | Fish | | **2-0** | **old rise** | |
+| **1-0** | **Jackk** | | **2-1** | **A bao'** | | 0-0 | Scotty | |
+</details>
 
-  <details>
-    <summary> GL.Nili</summary>
+<details>
+<summary> GL.Nili</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-2 | Twigg | 1-3 | mYi.PROject\_Belgium | 0-3 | bruh | 0-0 | Babaorum | **1-0** | **SongSong\_AOE** |
-|     1-4 | Zuppi | 0-0 | \_WWP\_ming | 0-0 | RiskyDice | 0-1 | chart | 1-1 | [KGB] RiuT |
-|     **2-1** | **repard** | 0-0 | 神明与她 | 0-0 | 曹孟德 | 0-0 | 啊错 | 0-0 | Fish |
-|     0-0 | old rise | 1-1 | Jackk | 0-0 | A bao' | **1-0** | **Scotty** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-2 | Twigg | | 1-3 | mYi.PROject\_Belgium | | 0-3 | bruh | | 0-0 | Babaorum | |
+| **1-0** | **SongSong\_AOE** | | 1-4 | Zuppi | | 0-0 | \_WWP\_ming | | 0-0 | RiskyDice | |
+| 0-1 | chart | | 1-1 | [KGB] RiuT | | **2-1** | **repard** | | 0-0 | 神明与她 | |
+| 0-0 | 曹孟德 | | 0-0 | 啊错 | | 0-0 | Fish | | 0-0 | old rise | |
+| 1-1 | Jackk | | 0-0 | A bao' | | **1-0** | **Scotty** | |
+</details>
 
-  <details>
-    <summary> 曹孟德</summary>
+<details>
+<summary> 曹孟德</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Twigg | 0-0 | mYi.PROject\_Belgium | 0-0 | bruh | 0-0 | Babaorum | 0-0 | SongSong\_AOE |
-|     0-0 | Zuppi | 0-0 | \_WWP\_ming | 0-0 | RiskyDice | 0-0 | GL.Nili | 0-0 | chart |
-|     0-0 | [KGB] RiuT | 0-0 | repard | 0-0 | 神明与她 | 0-0 | 啊错 | 0-0 | Fish |
-|     0-0 | old rise | 0-0 | Jackk | 0-0 | A bao' | 0-0 | Scotty |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Twigg | | 0-0 | mYi.PROject\_Belgium | | 0-0 | bruh | | 0-0 | Babaorum | |
+| 0-0 | SongSong\_AOE | | 0-0 | Zuppi | | 0-0 | \_WWP\_ming | | 0-0 | RiskyDice | |
+| 0-0 | GL.Nili | | 0-0 | chart | | 0-0 | [KGB] RiuT | | 0-0 | repard | |
+| 0-0 | 神明与她 | | 0-0 | 啊错 | | 0-0 | Fish | | 0-0 | old rise | |
+| 0-0 | Jackk | | 0-0 | A bao' | | 0-0 | Scotty | |
+</details>
 
-  <details>
-    <summary> 神明与她</summary>
+<details>
+<summary> 神明与她</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Twigg | **2-0** | **mYi.PROject\_Belgium** | 0-1 | bruh | 0-0 | Babaorum | 0-0 | SongSong\_AOE |
-|     0-2 | Zuppi | 0-1 | \_WWP\_ming | 0-0 | RiskyDice | 0-0 | GL.Nili | 0-0 | chart |
-|     0-1 | [KGB] RiuT | 0-0 | repard | 0-0 | 曹孟德 | 0-0 | 啊错 | 0-0 | Fish |
-|     0-0 | old rise | 0-0 | Jackk | 0-0 | A bao' | 0-0 | Scotty |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Twigg | | **2-0** | **mYi.PROject\_Belgium** | | 0-1 | bruh | | 0-0 | Babaorum | |
+| 0-0 | SongSong\_AOE | | 0-2 | Zuppi | | 0-1 | \_WWP\_ming | | 0-0 | RiskyDice | |
+| 0-0 | GL.Nili | | 0-0 | chart | | 0-1 | [KGB] RiuT | | 0-0 | repard | |
+| 0-0 | 曹孟德 | | 0-0 | 啊错 | | 0-0 | Fish | | 0-0 | old rise | |
+| 0-0 | Jackk | | 0-0 | A bao' | | 0-0 | Scotty | |
+</details>
 
-  <details>
-    <summary> repard</summary>
+<details>
+<summary> repard</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Twigg | 1-1 | mYi.PROject\_Belgium | 1-5 | bruh | 2-3 | Babaorum | 1-1 | SongSong\_AOE |
-|     3-4 | Zuppi | 0-0 | \_WWP\_ming | 1-1 | RiskyDice | 1-2 | GL.Nili | 0-2 | chart |
-|     0-0 | [KGB] RiuT | 0-0 | 神明与她 | 0-0 | 曹孟德 | **2-0** | **啊错** | 0-3 | Fish |
-|     0-3 | old rise | **2-1** | **Jackk** | 0-0 | A bao' | 0-0 | Scotty |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Twigg | | 1-1 | mYi.PROject\_Belgium | | 1-5 | bruh | | 2-3 | Babaorum | |
+| 1-1 | SongSong\_AOE | | 3-4 | Zuppi | | 0-0 | \_WWP\_ming | | 1-1 | RiskyDice | |
+| 1-2 | GL.Nili | | 0-2 | chart | | 0-0 | [KGB] RiuT | | 0-0 | 神明与她 | |
+| 0-0 | 曹孟德 | | **2-0** | **啊错** | | 0-3 | Fish | | 0-3 | old rise | |
+| **2-1** | **Jackk** | | 0-0 | A bao' | | 0-0 | Scotty | |
+</details>
 
-  <details>
-    <summary> Scotty</summary>
+<details>
+<summary> Scotty</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-2 | Twigg | 0-0 | mYi.PROject\_Belgium | 0-0 | bruh | 0-1 | Babaorum | 0-0 | SongSong\_AOE |
-|     0-0 | Zuppi | 0-0 | \_WWP\_ming | 0-0 | RiskyDice | 0-1 | GL.Nili | 0-1 | chart |
-|     0-1 | [KGB] RiuT | 0-0 | repard | 0-0 | 神明与她 | 0-0 | 曹孟德 | 0-0 | 啊错 |
-|     0-0 | Fish | **3-0** | **old rise** | 1-1 | Jackk | 0-0 | A bao' |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-2 | Twigg | | 0-0 | mYi.PROject\_Belgium | | 0-0 | bruh | | 0-1 | Babaorum | |
+| 0-0 | SongSong\_AOE | | 0-0 | Zuppi | | 0-0 | \_WWP\_ming | | 0-0 | RiskyDice | |
+| 0-1 | GL.Nili | | 0-1 | chart | | 0-1 | [KGB] RiuT | | 0-0 | repard | |
+| 0-0 | 神明与她 | | 0-0 | 曹孟德 | | 0-0 | 啊错 | | 0-0 | Fish | |
+| **3-0** | **old rise** | | 1-1 | Jackk | | 0-0 | A bao' | |
+</details>
 
-  <details>
-    <summary> Jackk</summary>
+<details>
+<summary> Jackk</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Twigg | 1-2 | mYi.PROject\_Belgium | 0-0 | bruh | 0-0 | Babaorum | 0-0 | SongSong\_AOE |
-|     0-0 | Zuppi | 0-0 | \_WWP\_ming | 0-0 | RiskyDice | 1-1 | GL.Nili | 0-1 | chart |
-|     0-0 | [KGB] RiuT | 1-2 | repard | 0-0 | 神明与她 | 0-0 | 曹孟德 | 0-1 | 啊错 |
-|     0-0 | Fish | 3-3 | old rise | 0-0 | A bao' | 1-1 | Scotty |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Twigg | | 1-2 | mYi.PROject\_Belgium | | 0-0 | bruh | | 0-0 | Babaorum | |
+| 0-0 | SongSong\_AOE | | 0-0 | Zuppi | | 0-0 | \_WWP\_ming | | 0-0 | RiskyDice | |
+| 1-1 | GL.Nili | | 0-1 | chart | | 0-0 | [KGB] RiuT | | 1-2 | repard | |
+| 0-0 | 神明与她 | | 0-0 | 曹孟德 | | 0-1 | 啊错 | | 0-0 | Fish | |
+| 3-3 | old rise | | 0-0 | A bao' | | 1-1 | Scotty | |
+</details>
 
-  <details>
-    <summary> A bao'</summary>
+<details>
+<summary> A bao'</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Twigg | 0-1 | mYi.PROject\_Belgium | 0-0 | bruh | 0-0 | Babaorum | 0-2 | SongSong\_AOE |
-|     0-0 | Zuppi | 0-0 | \_WWP\_ming | 0-0 | RiskyDice | 0-0 | GL.Nili | 0-1 | chart |
-|     0-0 | [KGB] RiuT | 0-0 | repard | 0-0 | 神明与她 | 0-0 | 曹孟德 | 1-2 | 啊错 |
-|     0-0 | Fish | 0-0 | old rise | 0-0 | Jackk | 0-0 | Scotty |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Twigg | | 0-1 | mYi.PROject\_Belgium | | 0-0 | bruh | | 0-0 | Babaorum | |
+| 0-2 | SongSong\_AOE | | 0-0 | Zuppi | | 0-0 | \_WWP\_ming | | 0-0 | RiskyDice | |
+| 0-0 | GL.Nili | | 0-1 | chart | | 0-0 | [KGB] RiuT | | 0-0 | repard | |
+| 0-0 | 神明与她 | | 0-0 | 曹孟德 | | 1-2 | 啊错 | | 0-0 | Fish | |
+| 0-0 | old rise | | 0-0 | Jackk | | 0-0 | Scotty | |
+</details>
 
-  <details>
-    <summary> old rise</summary>
+<details>
+<summary> old rise</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-1 | Twigg | 0-1 | mYi.PROject\_Belgium | 1-2 | bruh | 0-1 | Babaorum | 0-0 | SongSong\_AOE |
-|     0-1 | Zuppi | 0-0 | \_WWP\_ming | 0-1 | RiskyDice | 0-0 | GL.Nili | 0-1 | chart |
-|     0-0 | [KGB] RiuT | **3-0** | **repard** | 0-0 | 神明与她 | 0-0 | 曹孟德 | 0-2 | 啊错 |
-|     0-1 | Fish | 3-3 | Jackk | 0-0 | A bao' | 0-3 | Scotty |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-1 | Twigg | | 0-1 | mYi.PROject\_Belgium | | 1-2 | bruh | | 0-1 | Babaorum | |
+| 0-0 | SongSong\_AOE | | 0-1 | Zuppi | | 0-0 | \_WWP\_ming | | 0-1 | RiskyDice | |
+| 0-0 | GL.Nili | | 0-1 | chart | | 0-0 | [KGB] RiuT | | **3-0** | **repard** | |
+| 0-0 | 神明与她 | | 0-0 | 曹孟德 | | 0-2 | 啊错 | | 0-1 | Fish | |
+| 3-3 | Jackk | | 0-0 | A bao' | | 0-3 | Scotty | |
+</details>
 
 <\blockquote>
 </details>
@@ -786,225 +846,245 @@
 <summary>Games</summary>
 <blockquote>
 
-  <details>
-    <summary> RoR | Vodka_L_</summary>
+<details>
+<summary> RoR | Vodka_L_</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | **3-1** | **Chris** | 0-0 | RollsRoyce\_\_ | **1-0** | **\_WWP\_Iroha** | 0-0 | Hawks |
-|     0-0 | Gkt\_cloud | 0-0 | NOC \| komtan | 0-0 | Isaac | 0-0 | jibatong | **3-1** | **SalzZ\_classicpro** |
-|     0-0 | \_WWP\_Bad Koala | 0-0 | CL.JonSlow | 0-0 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho | 0-0 | Zeddddddd |
-|     **1-0** | **\_BAT\_塞亚人** | **6-0** | **CL.Darknoob** | 0-0 | \_Tea | **1-0** | **Hallis** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | **3-1** | **Chris** | | 0-0 | RollsRoyce\_\_ | | **1-0** | **\_WWP\_Iroha** | |
+| 0-0 | Hawks | | 0-0 | Gkt\_cloud | | 0-0 | NOC \| komtan | | 0-0 | Isaac | |
+| 0-0 | jibatong | | **3-1** | **SalzZ\_classicpro** | | 0-0 | \_WWP\_Bad Koala | | 0-0 | CL.JonSlow | |
+| 0-0 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | 0-0 | Zeddddddd | | **1-0** | **\_BAT\_塞亚人** | |
+| **6-0** | **CL.Darknoob** | | 0-0 | \_Tea | | **1-0** | **Hallis** | |
+</details>
 
-  <details>
-    <summary> _BAT_塞亚人</summary>
+<details>
+<summary> _BAT_塞亚人</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | 0-1 | RoR \| Vodka\_L\_ | **1-0** | **Chris** | 0-0 | RollsRoyce\_\_ | 1-1 | \_WWP\_Iroha |
-|     0-0 | Hawks | **7-3** | **Gkt\_cloud** | 0-0 | NOC \| komtan | 0-0 | Isaac | 0-0 | jibatong |
-|     0-1 | SalzZ\_classicpro | 0-0 | \_WWP\_Bad Koala | 0-0 | CL.JonSlow | **4-3** | **\_WWP\_MING** | 0-0 | SuN \| Mexican Psycho |
-|     1-1 | Zeddddddd | **2-0** | **CL.Darknoob** | 0-0 | \_Tea | **2-1** | **Hallis** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | 0-1 | RoR \| Vodka\_L\_ | | **1-0** | **Chris** | | 0-0 | RollsRoyce\_\_ | |
+| 1-1 | \_WWP\_Iroha | | 0-0 | Hawks | | **7-3** | **Gkt\_cloud** | | 0-0 | NOC \| komtan | |
+| 0-0 | Isaac | | 0-0 | jibatong | | 0-1 | SalzZ\_classicpro | | 0-0 | \_WWP\_Bad Koala | |
+| 0-0 | CL.JonSlow | | **4-3** | **\_WWP\_MING** | | 0-0 | SuN \| Mexican Psycho | | 1-1 | Zeddddddd | |
+| **2-0** | **CL.Darknoob** | | 0-0 | \_Tea | | **2-1** | **Hallis** | |
+</details>
 
-  <details>
-    <summary> StefanHD</summary>
+<details>
+<summary> StefanHD</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | RoR \| Vodka\_L\_ | 0-0 | Chris | 0-0 | RollsRoyce\_\_ | **1-0** | **\_WWP\_Iroha** | 0-0 | Hawks |
-|     0-0 | Gkt\_cloud | 0-0 | NOC \| komtan | 0-0 | Isaac | 0-0 | jibatong | 0-0 | SalzZ\_classicpro |
-|     0-0 | \_WWP\_Bad Koala | **2-1** | **CL.JonSlow** | 0-0 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho | **1-0** | **Zeddddddd** |
-|     0-0 | \_BAT\_塞亚人 | **2-1** | **CL.Darknoob** | 0-0 | \_Tea | 0-0 | Hallis |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | RoR \| Vodka\_L\_ | | 0-0 | Chris | | 0-0 | RollsRoyce\_\_ | | **1-0** | **\_WWP\_Iroha** | |
+| 0-0 | Hawks | | 0-0 | Gkt\_cloud | | 0-0 | NOC \| komtan | | 0-0 | Isaac | |
+| 0-0 | jibatong | | 0-0 | SalzZ\_classicpro | | 0-0 | \_WWP\_Bad Koala | | **2-1** | **CL.JonSlow** | |
+| 0-0 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | **1-0** | **Zeddddddd** | | 0-0 | \_BAT\_塞亚人 | |
+| **2-1** | **CL.Darknoob** | | 0-0 | \_Tea | | 0-0 | Hallis | |
+</details>
 
-  <details>
-    <summary> _WWP_Bad Koala</summary>
+<details>
+<summary> _WWP_Bad Koala</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | 0-0 | RoR \| Vodka\_L\_ | 0-0 | Chris | 0-0 | RollsRoyce\_\_ | **3-1** | **\_WWP\_Iroha** |
-|     0-0 | Hawks | **2-0** | **Gkt\_cloud** | 0-0 | NOC \| komtan | 0-0 | Isaac | 0-0 | jibatong |
-|     0-0 | SalzZ\_classicpro | 0-0 | CL.JonSlow | 0-0 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho | 0-0 | Zeddddddd |
-|     0-0 | \_BAT\_塞亚人 | **2-0** | **CL.Darknoob** | 0-0 | \_Tea | 0-0 | Hallis |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | 0-0 | RoR \| Vodka\_L\_ | | 0-0 | Chris | | 0-0 | RollsRoyce\_\_ | |
+| **3-1** | **\_WWP\_Iroha** | | 0-0 | Hawks | | **2-0** | **Gkt\_cloud** | | 0-0 | NOC \| komtan | |
+| 0-0 | Isaac | | 0-0 | jibatong | | 0-0 | SalzZ\_classicpro | | 0-0 | CL.JonSlow | |
+| 0-0 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | 0-0 | Zeddddddd | | 0-0 | \_BAT\_塞亚人 | |
+| **2-0** | **CL.Darknoob** | | 0-0 | \_Tea | | 0-0 | Hallis | |
+</details>
 
-  <details>
-    <summary> Gkt_cloud</summary>
+<details>
+<summary> Gkt_cloud</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | 0-0 | RoR \| Vodka\_L\_ | 0-0 | Chris | 0-0 | RollsRoyce\_\_ | 1-1 | \_WWP\_Iroha |
-|     0-0 | Hawks | **3-1** | **NOC \| komtan** | 1-2 | Isaac | **1-0** | **jibatong** | **1-0** | **SalzZ\_classicpro** |
-|     0-2 | \_WWP\_Bad Koala | **2-1** | **CL.JonSlow** | 2-4 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho | 0-0 | Zeddddddd |
-|     3-7 | \_BAT\_塞亚人 | 2-3 | CL.Darknoob | 0-0 | \_Tea | **2-1** | **Hallis** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | 0-0 | RoR \| Vodka\_L\_ | | 0-0 | Chris | | 0-0 | RollsRoyce\_\_ | |
+| 1-1 | \_WWP\_Iroha | | 0-0 | Hawks | | **3-1** | **NOC \| komtan** | | 1-2 | Isaac | |
+| **1-0** | **jibatong** | | **1-0** | **SalzZ\_classicpro** | | 0-2 | \_WWP\_Bad Koala | | **2-1** | **CL.JonSlow** | |
+| 2-4 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | 0-0 | Zeddddddd | | 3-7 | \_BAT\_塞亚人 | |
+| 2-3 | CL.Darknoob | | 0-0 | \_Tea | | **2-1** | **Hallis** | |
+</details>
 
-  <details>
-    <summary> Chris</summary>
+<details>
+<summary> Chris</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | 1-3 | RoR \| Vodka\_L\_ | 0-0 | RollsRoyce\_\_ | 0-0 | \_WWP\_Iroha | 0-1 | Hawks |
-|     0-0 | Gkt\_cloud | **1-0** | **NOC \| komtan** | 0-0 | Isaac | 0-0 | jibatong | 0-0 | SalzZ\_classicpro |
-|     0-0 | \_WWP\_Bad Koala | 0-0 | CL.JonSlow | 0-0 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho | **2-0** | **Zeddddddd** |
-|     0-1 | \_BAT\_塞亚人 | **1-0** | **CL.Darknoob** | 0-0 | \_Tea | **2-0** | **Hallis** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | 1-3 | RoR \| Vodka\_L\_ | | 0-0 | RollsRoyce\_\_ | | 0-0 | \_WWP\_Iroha | |
+| 0-1 | Hawks | | 0-0 | Gkt\_cloud | | **1-0** | **NOC \| komtan** | | 0-0 | Isaac | |
+| 0-0 | jibatong | | 0-0 | SalzZ\_classicpro | | 0-0 | \_WWP\_Bad Koala | | 0-0 | CL.JonSlow | |
+| 0-0 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | **2-0** | **Zeddddddd** | | 0-1 | \_BAT\_塞亚人 | |
+| **1-0** | **CL.Darknoob** | | 0-0 | \_Tea | | **2-0** | **Hallis** | |
+</details>
 
-  <details>
-    <summary> RollsRoyce__</summary>
+<details>
+<summary> RollsRoyce__</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | 0-0 | RoR \| Vodka\_L\_ | 0-0 | Chris | 0-0 | \_WWP\_Iroha | 0-0 | Hawks |
-|     0-0 | Gkt\_cloud | **1-0** | **NOC \| komtan** | 0-0 | Isaac | 0-0 | jibatong | 0-0 | SalzZ\_classicpro |
-|     0-0 | \_WWP\_Bad Koala | 0-0 | CL.JonSlow | **1-0** | **\_WWP\_MING** | 0-0 | SuN \| Mexican Psycho | 0-0 | Zeddddddd |
-|     0-0 | \_BAT\_塞亚人 | 0-0 | CL.Darknoob | 0-0 | \_Tea | 0-0 | Hallis |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | 0-0 | RoR \| Vodka\_L\_ | | 0-0 | Chris | | 0-0 | \_WWP\_Iroha | |
+| 0-0 | Hawks | | 0-0 | Gkt\_cloud | | **1-0** | **NOC \| komtan** | | 0-0 | Isaac | |
+| 0-0 | jibatong | | 0-0 | SalzZ\_classicpro | | 0-0 | \_WWP\_Bad Koala | | 0-0 | CL.JonSlow | |
+| **1-0** | **\_WWP\_MING** | | 0-0 | SuN \| Mexican Psycho | | 0-0 | Zeddddddd | | 0-0 | \_BAT\_塞亚人 | |
+| 0-0 | CL.Darknoob | | 0-0 | \_Tea | | 0-0 | Hallis | |
+</details>
 
-  <details>
-    <summary> Isaac</summary>
+<details>
+<summary> Isaac</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | 0-0 | RoR \| Vodka\_L\_ | 0-0 | Chris | 0-0 | RollsRoyce\_\_ | 0-0 | \_WWP\_Iroha |
-|     0-0 | Hawks | **2-1** | **Gkt\_cloud** | 0-1 | NOC \| komtan | 0-0 | jibatong | 0-0 | SalzZ\_classicpro |
-|     0-0 | \_WWP\_Bad Koala | 0-0 | CL.JonSlow | 0-0 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho | 0-0 | Zeddddddd |
-|     0-0 | \_BAT\_塞亚人 | 0-0 | CL.Darknoob | 0-0 | \_Tea | **1-0** | **Hallis** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | 0-0 | RoR \| Vodka\_L\_ | | 0-0 | Chris | | 0-0 | RollsRoyce\_\_ | |
+| 0-0 | \_WWP\_Iroha | | 0-0 | Hawks | | **2-1** | **Gkt\_cloud** | | 0-1 | NOC \| komtan | |
+| 0-0 | jibatong | | 0-0 | SalzZ\_classicpro | | 0-0 | \_WWP\_Bad Koala | | 0-0 | CL.JonSlow | |
+| 0-0 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | 0-0 | Zeddddddd | | 0-0 | \_BAT\_塞亚人 | |
+| 0-0 | CL.Darknoob | | 0-0 | \_Tea | | **1-0** | **Hallis** | |
+</details>
 
-  <details>
-    <summary> _WWP_MING</summary>
+<details>
+<summary> _WWP_MING</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | 0-0 | RoR \| Vodka\_L\_ | 0-0 | Chris | 0-1 | RollsRoyce\_\_ | 1-1 | \_WWP\_Iroha |
-|     0-0 | Hawks | **4-2** | **Gkt\_cloud** | **3-2** | **NOC \| komtan** | 0-0 | Isaac | 0-0 | jibatong |
-|     0-0 | SalzZ\_classicpro | 0-0 | \_WWP\_Bad Koala | 0-0 | CL.JonSlow | 0-0 | SuN \| Mexican Psycho | 0-0 | Zeddddddd |
-|     3-4 | \_BAT\_塞亚人 | 0-0 | CL.Darknoob | 0-0 | \_Tea | 0-0 | Hallis |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | 0-0 | RoR \| Vodka\_L\_ | | 0-0 | Chris | | 0-1 | RollsRoyce\_\_ | |
+| 1-1 | \_WWP\_Iroha | | 0-0 | Hawks | | **4-2** | **Gkt\_cloud** | | **3-2** | **NOC \| komtan** | |
+| 0-0 | Isaac | | 0-0 | jibatong | | 0-0 | SalzZ\_classicpro | | 0-0 | \_WWP\_Bad Koala | |
+| 0-0 | CL.JonSlow | | 0-0 | SuN \| Mexican Psycho | | 0-0 | Zeddddddd | | 3-4 | \_BAT\_塞亚人 | |
+| 0-0 | CL.Darknoob | | 0-0 | \_Tea | | 0-0 | Hallis | |
+</details>
 
-  <details>
-    <summary> Zeddddddd</summary>
+<details>
+<summary> Zeddddddd</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-1 | StefanHD | 0-0 | RoR \| Vodka\_L\_ | 0-2 | Chris | 0-0 | RollsRoyce\_\_ | 0-0 | \_WWP\_Iroha |
-|     0-0 | Hawks | 0-0 | Gkt\_cloud | **3-0** | **NOC \| komtan** | 0-0 | Isaac | 0-0 | jibatong |
-|     0-0 | SalzZ\_classicpro | 0-0 | \_WWP\_Bad Koala | 0-0 | CL.JonSlow | 0-0 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho |
-|     1-1 | \_BAT\_塞亚人 | **1-0** | **CL.Darknoob** | 0-0 | \_Tea | 0-0 | Hallis |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-1 | StefanHD | | 0-0 | RoR \| Vodka\_L\_ | | 0-2 | Chris | | 0-0 | RollsRoyce\_\_ | |
+| 0-0 | \_WWP\_Iroha | | 0-0 | Hawks | | 0-0 | Gkt\_cloud | | **3-0** | **NOC \| komtan** | |
+| 0-0 | Isaac | | 0-0 | jibatong | | 0-0 | SalzZ\_classicpro | | 0-0 | \_WWP\_Bad Koala | |
+| 0-0 | CL.JonSlow | | 0-0 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | 1-1 | \_BAT\_塞亚人 | |
+| **1-0** | **CL.Darknoob** | | 0-0 | \_Tea | | 0-0 | Hallis | |
+</details>
 
-  <details>
-    <summary> Hawks</summary>
+<details>
+<summary> Hawks</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | 0-0 | RoR \| Vodka\_L\_ | **1-0** | **Chris** | 0-0 | RollsRoyce\_\_ | 0-0 | \_WWP\_Iroha |
-|     0-0 | Gkt\_cloud | 0-0 | NOC \| komtan | 0-0 | Isaac | 0-0 | jibatong | 0-0 | SalzZ\_classicpro |
-|     0-0 | \_WWP\_Bad Koala | 0-0 | CL.JonSlow | 0-0 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho | 0-0 | Zeddddddd |
-|     0-0 | \_BAT\_塞亚人 | 0-0 | CL.Darknoob | 0-0 | \_Tea | 0-0 | Hallis |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | 0-0 | RoR \| Vodka\_L\_ | | **1-0** | **Chris** | | 0-0 | RollsRoyce\_\_ | |
+| 0-0 | \_WWP\_Iroha | | 0-0 | Gkt\_cloud | | 0-0 | NOC \| komtan | | 0-0 | Isaac | |
+| 0-0 | jibatong | | 0-0 | SalzZ\_classicpro | | 0-0 | \_WWP\_Bad Koala | | 0-0 | CL.JonSlow | |
+| 0-0 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | 0-0 | Zeddddddd | | 0-0 | \_BAT\_塞亚人 | |
+| 0-0 | CL.Darknoob | | 0-0 | \_Tea | | 0-0 | Hallis | |
+</details>
 
-  <details>
-    <summary> _WWP_Iroha</summary>
+<details>
+<summary> _WWP_Iroha</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-1 | StefanHD | 0-1 | RoR \| Vodka\_L\_ | 0-0 | Chris | 0-0 | RollsRoyce\_\_ | 0-0 | Hawks |
-|     1-1 | Gkt\_cloud | **3-2** | **NOC \| komtan** | 0-0 | Isaac | 0-0 | jibatong | **1-0** | **SalzZ\_classicpro** |
-|     1-3 | \_WWP\_Bad Koala | 2-3 | CL.JonSlow | 1-1 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho | 0-0 | Zeddddddd |
-|     1-1 | \_BAT\_塞亚人 | **4-1** | **CL.Darknoob** | 0-0 | \_Tea | 0-1 | Hallis |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-1 | StefanHD | | 0-1 | RoR \| Vodka\_L\_ | | 0-0 | Chris | | 0-0 | RollsRoyce\_\_ | |
+| 0-0 | Hawks | | 1-1 | Gkt\_cloud | | **3-2** | **NOC \| komtan** | | 0-0 | Isaac | |
+| 0-0 | jibatong | | **1-0** | **SalzZ\_classicpro** | | 1-3 | \_WWP\_Bad Koala | | 2-3 | CL.JonSlow | |
+| 1-1 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | 0-0 | Zeddddddd | | 1-1 | \_BAT\_塞亚人 | |
+| **4-1** | **CL.Darknoob** | | 0-0 | \_Tea | | 0-1 | Hallis | |
+</details>
 
-  <details>
-    <summary> CL.JonSlow</summary>
+<details>
+<summary> CL.JonSlow</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     1-2 | StefanHD | 0-0 | RoR \| Vodka\_L\_ | 0-0 | Chris | 0-0 | RollsRoyce\_\_ | **3-2** | **\_WWP\_Iroha** |
-|     0-0 | Hawks | 1-2 | Gkt\_cloud | 0-0 | NOC \| komtan | 0-0 | Isaac | 0-0 | jibatong |
-|     0-0 | SalzZ\_classicpro | 0-0 | \_WWP\_Bad Koala | 0-0 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho | 0-0 | Zeddddddd |
-|     0-0 | \_BAT\_塞亚人 | 3-6 | CL.Darknoob | **1-0** | **\_Tea** | 0-0 | Hallis |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-2 | StefanHD | | 0-0 | RoR \| Vodka\_L\_ | | 0-0 | Chris | | 0-0 | RollsRoyce\_\_ | |
+| **3-2** | **\_WWP\_Iroha** | | 0-0 | Hawks | | 1-2 | Gkt\_cloud | | 0-0 | NOC \| komtan | |
+| 0-0 | Isaac | | 0-0 | jibatong | | 0-0 | SalzZ\_classicpro | | 0-0 | \_WWP\_Bad Koala | |
+| 0-0 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | 0-0 | Zeddddddd | | 0-0 | \_BAT\_塞亚人 | |
+| 3-6 | CL.Darknoob | | **1-0** | **\_Tea** | | 0-0 | Hallis | |
+</details>
 
-  <details>
-    <summary> SuN | Mexican Psycho</summary>
+<details>
+<summary> SuN | Mexican Psycho</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | 0-0 | RoR \| Vodka\_L\_ | 0-0 | Chris | 0-0 | RollsRoyce\_\_ | 0-0 | \_WWP\_Iroha |
-|     0-0 | Hawks | 0-0 | Gkt\_cloud | 0-0 | NOC \| komtan | 0-0 | Isaac | 0-0 | jibatong |
-|     0-0 | SalzZ\_classicpro | 0-0 | \_WWP\_Bad Koala | 0-0 | CL.JonSlow | 0-0 | \_WWP\_MING | 0-0 | Zeddddddd |
-|     0-0 | \_BAT\_塞亚人 | 0-0 | CL.Darknoob | 0-0 | \_Tea | 0-0 | Hallis |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | 0-0 | RoR \| Vodka\_L\_ | | 0-0 | Chris | | 0-0 | RollsRoyce\_\_ | |
+| 0-0 | \_WWP\_Iroha | | 0-0 | Hawks | | 0-0 | Gkt\_cloud | | 0-0 | NOC \| komtan | |
+| 0-0 | Isaac | | 0-0 | jibatong | | 0-0 | SalzZ\_classicpro | | 0-0 | \_WWP\_Bad Koala | |
+| 0-0 | CL.JonSlow | | 0-0 | \_WWP\_MING | | 0-0 | Zeddddddd | | 0-0 | \_BAT\_塞亚人 | |
+| 0-0 | CL.Darknoob | | 0-0 | \_Tea | | 0-0 | Hallis | |
+</details>
 
-  <details>
-    <summary> Hallis</summary>
+<details>
+<summary> Hallis</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | 0-1 | RoR \| Vodka\_L\_ | 0-2 | Chris | 0-0 | RollsRoyce\_\_ | **1-0** | **\_WWP\_Iroha** |
-|     0-0 | Hawks | 1-2 | Gkt\_cloud | 0-0 | NOC \| komtan | 0-1 | Isaac | 0-0 | jibatong |
-|     1-1 | SalzZ\_classicpro | 0-0 | \_WWP\_Bad Koala | 0-0 | CL.JonSlow | 0-0 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho |
-|     0-0 | Zeddddddd | 1-2 | \_BAT\_塞亚人 | 0-0 | CL.Darknoob | **2-1** | **\_Tea** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | 0-1 | RoR \| Vodka\_L\_ | | 0-2 | Chris | | 0-0 | RollsRoyce\_\_ | |
+| **1-0** | **\_WWP\_Iroha** | | 0-0 | Hawks | | 1-2 | Gkt\_cloud | | 0-0 | NOC \| komtan | |
+| 0-1 | Isaac | | 0-0 | jibatong | | 1-1 | SalzZ\_classicpro | | 0-0 | \_WWP\_Bad Koala | |
+| 0-0 | CL.JonSlow | | 0-0 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | 0-0 | Zeddddddd | |
+| 1-2 | \_BAT\_塞亚人 | | 0-0 | CL.Darknoob | | **2-1** | **\_Tea** | |
+</details>
 
-  <details>
-    <summary> jibatong</summary>
+<details>
+<summary> jibatong</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | 0-0 | RoR \| Vodka\_L\_ | 0-0 | Chris | 0-0 | RollsRoyce\_\_ | 0-0 | \_WWP\_Iroha |
-|     0-0 | Hawks | 0-1 | Gkt\_cloud | 0-0 | NOC \| komtan | 0-0 | Isaac | 0-0 | SalzZ\_classicpro |
-|     0-0 | \_WWP\_Bad Koala | 0-0 | CL.JonSlow | 0-0 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho | 0-0 | Zeddddddd |
-|     0-0 | \_BAT\_塞亚人 | 0-0 | CL.Darknoob | 0-0 | \_Tea | 0-0 | Hallis |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | 0-0 | RoR \| Vodka\_L\_ | | 0-0 | Chris | | 0-0 | RollsRoyce\_\_ | |
+| 0-0 | \_WWP\_Iroha | | 0-0 | Hawks | | 0-1 | Gkt\_cloud | | 0-0 | NOC \| komtan | |
+| 0-0 | Isaac | | 0-0 | SalzZ\_classicpro | | 0-0 | \_WWP\_Bad Koala | | 0-0 | CL.JonSlow | |
+| 0-0 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | 0-0 | Zeddddddd | | 0-0 | \_BAT\_塞亚人 | |
+| 0-0 | CL.Darknoob | | 0-0 | \_Tea | | 0-0 | Hallis | |
+</details>
 
-  <details>
-    <summary> NOC | komtan</summary>
+<details>
+<summary> NOC | komtan</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | 0-0 | RoR \| Vodka\_L\_ | 0-1 | Chris | 0-1 | RollsRoyce\_\_ | 2-3 | \_WWP\_Iroha |
-|     0-0 | Hawks | 1-3 | Gkt\_cloud | **1-0** | **Isaac** | 0-0 | jibatong | **1-0** | **SalzZ\_classicpro** |
-|     0-0 | \_WWP\_Bad Koala | 0-0 | CL.JonSlow | 2-3 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho | 0-3 | Zeddddddd |
-|     0-0 | \_BAT\_塞亚人 | 0-0 | CL.Darknoob | 0-0 | \_Tea | 0-0 | Hallis |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | 0-0 | RoR \| Vodka\_L\_ | | 0-1 | Chris | | 0-1 | RollsRoyce\_\_ | |
+| 2-3 | \_WWP\_Iroha | | 0-0 | Hawks | | 1-3 | Gkt\_cloud | | **1-0** | **Isaac** | |
+| 0-0 | jibatong | | **1-0** | **SalzZ\_classicpro** | | 0-0 | \_WWP\_Bad Koala | | 0-0 | CL.JonSlow | |
+| 2-3 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | 0-3 | Zeddddddd | | 0-0 | \_BAT\_塞亚人 | |
+| 0-0 | CL.Darknoob | | 0-0 | \_Tea | | 0-0 | Hallis | |
+</details>
 
-  <details>
-    <summary> SalzZ_classicpro</summary>
+<details>
+<summary> SalzZ_classicpro</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | 1-3 | RoR \| Vodka\_L\_ | 0-0 | Chris | 0-0 | RollsRoyce\_\_ | 0-1 | \_WWP\_Iroha |
-|     0-0 | Hawks | 0-1 | Gkt\_cloud | 0-1 | NOC \| komtan | 0-0 | Isaac | 0-0 | jibatong |
-|     0-0 | \_WWP\_Bad Koala | 0-0 | CL.JonSlow | 0-0 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho | 0-0 | Zeddddddd |
-|     **1-0** | **\_BAT\_塞亚人** | 1-1 | CL.Darknoob | 0-0 | \_Tea | 1-1 | Hallis |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | 1-3 | RoR \| Vodka\_L\_ | | 0-0 | Chris | | 0-0 | RollsRoyce\_\_ | |
+| 0-1 | \_WWP\_Iroha | | 0-0 | Hawks | | 0-1 | Gkt\_cloud | | 0-1 | NOC \| komtan | |
+| 0-0 | Isaac | | 0-0 | jibatong | | 0-0 | \_WWP\_Bad Koala | | 0-0 | CL.JonSlow | |
+| 0-0 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | 0-0 | Zeddddddd | | **1-0** | **\_BAT\_塞亚人** | |
+| 1-1 | CL.Darknoob | | 0-0 | \_Tea | | 1-1 | Hallis | |
+</details>
 
-  <details>
-    <summary> _Tea</summary>
+<details>
+<summary> _Tea</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | StefanHD | 0-0 | RoR \| Vodka\_L\_ | 0-0 | Chris | 0-0 | RollsRoyce\_\_ | 0-0 | \_WWP\_Iroha |
-|     0-0 | Hawks | 0-0 | Gkt\_cloud | 0-0 | NOC \| komtan | 0-0 | Isaac | 0-0 | jibatong |
-|     0-0 | SalzZ\_classicpro | 0-0 | \_WWP\_Bad Koala | 0-1 | CL.JonSlow | 0-0 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho |
-|     0-0 | Zeddddddd | 0-0 | \_BAT\_塞亚人 | 0-0 | CL.Darknoob | 1-2 | Hallis |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | StefanHD | | 0-0 | RoR \| Vodka\_L\_ | | 0-0 | Chris | | 0-0 | RollsRoyce\_\_ | |
+| 0-0 | \_WWP\_Iroha | | 0-0 | Hawks | | 0-0 | Gkt\_cloud | | 0-0 | NOC \| komtan | |
+| 0-0 | Isaac | | 0-0 | jibatong | | 0-0 | SalzZ\_classicpro | | 0-0 | \_WWP\_Bad Koala | |
+| 0-1 | CL.JonSlow | | 0-0 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | 0-0 | Zeddddddd | |
+| 0-0 | \_BAT\_塞亚人 | | 0-0 | CL.Darknoob | | 1-2 | Hallis | |
+</details>
 
-  <details>
-    <summary> CL.Darknoob</summary>
+<details>
+<summary> CL.Darknoob</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     1-2 | StefanHD | 0-6 | RoR \| Vodka\_L\_ | 0-1 | Chris | 0-0 | RollsRoyce\_\_ | 1-4 | \_WWP\_Iroha |
-|     0-0 | Hawks | **3-2** | **Gkt\_cloud** | 0-0 | NOC \| komtan | 0-0 | Isaac | 0-0 | jibatong |
-|     1-1 | SalzZ\_classicpro | 0-2 | \_WWP\_Bad Koala | **6-3** | **CL.JonSlow** | 0-0 | \_WWP\_MING | 0-0 | SuN \| Mexican Psycho |
-|     0-1 | Zeddddddd | 0-2 | \_BAT\_塞亚人 | 0-0 | \_Tea | 0-0 | Hallis |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-2 | StefanHD | | 0-6 | RoR \| Vodka\_L\_ | | 0-1 | Chris | | 0-0 | RollsRoyce\_\_ | |
+| 1-4 | \_WWP\_Iroha | | 0-0 | Hawks | | **3-2** | **Gkt\_cloud** | | 0-0 | NOC \| komtan | |
+| 0-0 | Isaac | | 0-0 | jibatong | | 1-1 | SalzZ\_classicpro | | 0-2 | \_WWP\_Bad Koala | |
+| **6-3** | **CL.JonSlow** | | 0-0 | \_WWP\_MING | | 0-0 | SuN \| Mexican Psycho | | 0-1 | Zeddddddd | |
+| 0-2 | \_BAT\_塞亚人 | | 0-0 | \_Tea | | 0-0 | Hallis | |
+</details>
 
 <\blockquote>
 </details>
@@ -1038,225 +1118,245 @@
 <summary>Games</summary>
 <blockquote>
 
-  <details>
-    <summary> Wisepii</summary>
+<details>
+<summary> Wisepii</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | [HyM]Cyclops | **1-0** | **Scogo** | **1-0** | **CL.TheBloodless** | 0-0 | Rubenstock | 0-0 | [bK]martinhs\_ |
-|     0-0 | Skull | **1-0** | **GDucky** | **1-0** | **魔卡大神简瓜瓜** | **1-0** | **[KGB] Alive** | 0-0 | RoR \| Kellar |
-|     0-0 | \_Ares\_yinghua\_ | 0-0 | sora kuma | 0-0 | Galaxy | 0-0 | \_TieuQuy | **1-0** | **RecoN** |
-|     0-0 | The\_shy | **1-0** | **GodOfTheGodless** | 0-0 | flightlessbird | 0-1 | fire\_de |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | [HyM]Cyclops | | **1-0** | **Scogo** | | **1-0** | **CL.TheBloodless** | | 0-0 | Rubenstock | |
+| 0-0 | [bK]martinhs\_ | | 0-0 | Skull | | **1-0** | **GDucky** | | **1-0** | **魔卡大神简瓜瓜** | |
+| **1-0** | **[KGB] Alive** | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | | 0-0 | sora kuma | |
+| 0-0 | Galaxy | | 0-0 | \_TieuQuy | | **1-0** | **RecoN** | | 0-0 | The\_shy | |
+| **1-0** | **GodOfTheGodless** | | 0-0 | flightlessbird | | 0-1 | fire\_de | |
+</details>
 
-  <details>
-    <summary> 魔卡大神简瓜瓜</summary>
+<details>
+<summary> 魔卡大神简瓜瓜</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-1 | Wisepii | 0-0 | [HyM]Cyclops | 0-0 | Scogo | **2-0** | **CL.TheBloodless** | 0-0 | Rubenstock |
-|     0-0 | [bK]martinhs\_ | 0-0 | Skull | 0-0 | GDucky | 0-1 | [KGB] Alive | **1-0** | **RoR \| Kellar** |
-|     0-0 | \_Ares\_yinghua\_ | 0-0 | sora kuma | **1-0** | **Galaxy** | **2-1** | **\_TieuQuy** | 0-0 | RecoN |
-|     **1-0** | **The\_shy** | 0-0 | GodOfTheGodless | 0-0 | flightlessbird | **3-0** | **fire\_de** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-1 | Wisepii | | 0-0 | [HyM]Cyclops | | 0-0 | Scogo | | **2-0** | **CL.TheBloodless** | |
+| 0-0 | Rubenstock | | 0-0 | [bK]martinhs\_ | | 0-0 | Skull | | 0-0 | GDucky | |
+| 0-1 | [KGB] Alive | | **1-0** | **RoR \| Kellar** | | 0-0 | \_Ares\_yinghua\_ | | 0-0 | sora kuma | |
+| **1-0** | **Galaxy** | | **2-1** | **\_TieuQuy** | | 0-0 | RecoN | | **1-0** | **The\_shy** | |
+| 0-0 | GodOfTheGodless | | 0-0 | flightlessbird | | **3-0** | **fire\_de** | |
+</details>
 
-  <details>
-    <summary> [KGB] Alive</summary>
+<details>
+<summary> [KGB] Alive</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-1 | Wisepii | 0-0 | [HyM]Cyclops | **3-1** | **Scogo** | **2-0** | **CL.TheBloodless** | 0-0 | Rubenstock |
-|     0-0 | [bK]martinhs\_ | 0-0 | Skull | 0-0 | GDucky | **1-0** | **魔卡大神简瓜瓜** | 0-0 | RoR \| Kellar |
-|     0-0 | \_Ares\_yinghua\_ | 0-0 | sora kuma | 0-0 | Galaxy | 0-0 | \_TieuQuy | 0-1 | RecoN |
-|     0-0 | The\_shy | **3-2** | **GodOfTheGodless** | 0-0 | flightlessbird | 0-0 | fire\_de |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-1 | Wisepii | | 0-0 | [HyM]Cyclops | | **3-1** | **Scogo** | | **2-0** | **CL.TheBloodless** | |
+| 0-0 | Rubenstock | | 0-0 | [bK]martinhs\_ | | 0-0 | Skull | | 0-0 | GDucky | |
+| **1-0** | **魔卡大神简瓜瓜** | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | | 0-0 | sora kuma | |
+| 0-0 | Galaxy | | 0-0 | \_TieuQuy | | 0-1 | RecoN | | 0-0 | The\_shy | |
+| **3-2** | **GodOfTheGodless** | | 0-0 | flightlessbird | | 0-0 | fire\_de | |
+</details>
 
-  <details>
-    <summary> fire_de</summary>
+<details>
+<summary> fire_de</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     **1-0** | **Wisepii** | 0-1 | [HyM]Cyclops | 0-1 | Scogo | 3-5 | CL.TheBloodless | **2-0** | **Rubenstock** |
-|     1-1 | [bK]martinhs\_ | **1-0** | **Skull** | 1-1 | GDucky | 0-3 | 魔卡大神简瓜瓜 | 0-0 | [KGB] Alive |
-|     0-0 | RoR \| Kellar | 0-0 | \_Ares\_yinghua\_ | **1-0** | **sora kuma** | 1-4 | Galaxy | 0-0 | \_TieuQuy |
-|     0-0 | RecoN | **1-0** | **The\_shy** | 1-1 | GodOfTheGodless | 0-0 | flightlessbird |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **1-0** | **Wisepii** | | 0-1 | [HyM]Cyclops | | 0-1 | Scogo | | 3-5 | CL.TheBloodless | |
+| **2-0** | **Rubenstock** | | 1-1 | [bK]martinhs\_ | | **1-0** | **Skull** | | 1-1 | GDucky | |
+| 0-3 | 魔卡大神简瓜瓜 | | 0-0 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | |
+| **1-0** | **sora kuma** | | 1-4 | Galaxy | | 0-0 | \_TieuQuy | | 0-0 | RecoN | |
+| **1-0** | **The\_shy** | | 1-1 | GodOfTheGodless | | 0-0 | flightlessbird | |
+</details>
 
-  <details>
-    <summary> GodOfTheGodless</summary>
+<details>
+<summary> GodOfTheGodless</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-1 | Wisepii | **1-0** | **[HyM]Cyclops** | 0-1 | Scogo | 3-3 | CL.TheBloodless | 0-0 | Rubenstock |
-|     0-2 | [bK]martinhs\_ | 2-2 | Skull | 0-3 | GDucky | 0-0 | 魔卡大神简瓜瓜 | 2-3 | [KGB] Alive |
-|     0-0 | RoR \| Kellar | 0-0 | \_Ares\_yinghua\_ | **1-0** | **sora kuma** | 0-0 | Galaxy | 0-0 | \_TieuQuy |
-|     **3-0** | **RecoN** | 0-0 | The\_shy | **1-0** | **flightlessbird** | 1-1 | fire\_de |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-1 | Wisepii | | **1-0** | **[HyM]Cyclops** | | 0-1 | Scogo | | 3-3 | CL.TheBloodless | |
+| 0-0 | Rubenstock | | 0-2 | [bK]martinhs\_ | | 2-2 | Skull | | 0-3 | GDucky | |
+| 0-0 | 魔卡大神简瓜瓜 | | 2-3 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | |
+| **1-0** | **sora kuma** | | 0-0 | Galaxy | | 0-0 | \_TieuQuy | | **3-0** | **RecoN** | |
+| 0-0 | The\_shy | | **1-0** | **flightlessbird** | | 1-1 | fire\_de | |
+</details>
 
-  <details>
-    <summary> GDucky</summary>
+<details>
+<summary> GDucky</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-1 | Wisepii | 0-0 | [HyM]Cyclops | 0-0 | Scogo | 0-0 | CL.TheBloodless | **1-0** | **Rubenstock** |
-|     0-0 | [bK]martinhs\_ | 0-0 | Skull | 0-0 | 魔卡大神简瓜瓜 | 0-0 | [KGB] Alive | 0-0 | RoR \| Kellar |
-|     0-0 | \_Ares\_yinghua\_ | 0-0 | sora kuma | 0-0 | Galaxy | 0-0 | \_TieuQuy | 0-0 | RecoN |
-|     0-0 | The\_shy | **3-0** | **GodOfTheGodless** | 0-0 | flightlessbird | 1-1 | fire\_de |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-1 | Wisepii | | 0-0 | [HyM]Cyclops | | 0-0 | Scogo | | 0-0 | CL.TheBloodless | |
+| **1-0** | **Rubenstock** | | 0-0 | [bK]martinhs\_ | | 0-0 | Skull | | 0-0 | 魔卡大神简瓜瓜 | |
+| 0-0 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | | 0-0 | sora kuma | |
+| 0-0 | Galaxy | | 0-0 | \_TieuQuy | | 0-0 | RecoN | | 0-0 | The\_shy | |
+| **3-0** | **GodOfTheGodless** | | 0-0 | flightlessbird | | 1-1 | fire\_de | |
+</details>
 
-  <details>
-    <summary> [bK]martinhs_</summary>
+<details>
+<summary> [bK]martinhs_</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Wisepii | 0-0 | [HyM]Cyclops | **1-0** | **Scogo** | 0-1 | CL.TheBloodless | 0-0 | Rubenstock |
-|     0-0 | Skull | 0-0 | GDucky | 0-0 | 魔卡大神简瓜瓜 | 0-0 | [KGB] Alive | 0-0 | RoR \| Kellar |
-|     0-0 | \_Ares\_yinghua\_ | 0-0 | sora kuma | 0-0 | Galaxy | 0-0 | \_TieuQuy | 0-0 | RecoN |
-|     0-0 | The\_shy | **2-0** | **GodOfTheGodless** | 0-0 | flightlessbird | 1-1 | fire\_de |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Wisepii | | 0-0 | [HyM]Cyclops | | **1-0** | **Scogo** | | 0-1 | CL.TheBloodless | |
+| 0-0 | Rubenstock | | 0-0 | Skull | | 0-0 | GDucky | | 0-0 | 魔卡大神简瓜瓜 | |
+| 0-0 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | | 0-0 | sora kuma | |
+| 0-0 | Galaxy | | 0-0 | \_TieuQuy | | 0-0 | RecoN | | 0-0 | The\_shy | |
+| **2-0** | **GodOfTheGodless** | | 0-0 | flightlessbird | | 1-1 | fire\_de | |
+</details>
 
-  <details>
-    <summary> CL.TheBloodless</summary>
+<details>
+<summary> CL.TheBloodless</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-1 | Wisepii | 0-0 | [HyM]Cyclops | 0-0 | Scogo | 0-0 | Rubenstock | **1-0** | **[bK]martinhs\_** |
-|     2-2 | Skull | 0-0 | GDucky | 0-2 | 魔卡大神简瓜瓜 | 0-2 | [KGB] Alive | 0-0 | RoR \| Kellar |
-|     0-0 | \_Ares\_yinghua\_ | **1-0** | **sora kuma** | 0-0 | Galaxy | 0-0 | \_TieuQuy | 0-0 | RecoN |
-|     0-0 | The\_shy | 3-3 | GodOfTheGodless | 0-1 | flightlessbird | **5-3** | **fire\_de** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-1 | Wisepii | | 0-0 | [HyM]Cyclops | | 0-0 | Scogo | | 0-0 | Rubenstock | |
+| **1-0** | **[bK]martinhs\_** | | 2-2 | Skull | | 0-0 | GDucky | | 0-2 | 魔卡大神简瓜瓜 | |
+| 0-2 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | | **1-0** | **sora kuma** | |
+| 0-0 | Galaxy | | 0-0 | \_TieuQuy | | 0-0 | RecoN | | 0-0 | The\_shy | |
+| 3-3 | GodOfTheGodless | | 0-1 | flightlessbird | | **5-3** | **fire\_de** | |
+</details>
 
-  <details>
-    <summary> Scogo</summary>
+<details>
+<summary> Scogo</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-1 | Wisepii | 0-0 | [HyM]Cyclops | 0-0 | CL.TheBloodless | 0-1 | Rubenstock | 0-1 | [bK]martinhs\_ |
-|     **1-0** | **Skull** | 0-0 | GDucky | 0-0 | 魔卡大神简瓜瓜 | 1-3 | [KGB] Alive | 0-0 | RoR \| Kellar |
-|     0-0 | \_Ares\_yinghua\_ | 0-0 | sora kuma | 0-0 | Galaxy | 0-0 | \_TieuQuy | 0-0 | RecoN |
-|     0-0 | The\_shy | **1-0** | **GodOfTheGodless** | 0-0 | flightlessbird | **1-0** | **fire\_de** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-1 | Wisepii | | 0-0 | [HyM]Cyclops | | 0-0 | CL.TheBloodless | | 0-1 | Rubenstock | |
+| 0-1 | [bK]martinhs\_ | | **1-0** | **Skull** | | 0-0 | GDucky | | 0-0 | 魔卡大神简瓜瓜 | |
+| 1-3 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | | 0-0 | sora kuma | |
+| 0-0 | Galaxy | | 0-0 | \_TieuQuy | | 0-0 | RecoN | | 0-0 | The\_shy | |
+| **1-0** | **GodOfTheGodless** | | 0-0 | flightlessbird | | **1-0** | **fire\_de** | |
+</details>
 
-  <details>
-    <summary> RecoN</summary>
+<details>
+<summary> RecoN</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-1 | Wisepii | 0-0 | [HyM]Cyclops | 0-0 | Scogo | 0-0 | CL.TheBloodless | 0-0 | Rubenstock |
-|     0-0 | [bK]martinhs\_ | **1-0** | **Skull** | 0-0 | GDucky | 0-0 | 魔卡大神简瓜瓜 | **1-0** | **[KGB] Alive** |
-|     0-0 | RoR \| Kellar | 0-0 | \_Ares\_yinghua\_ | 0-0 | sora kuma | 0-0 | Galaxy | 0-0 | \_TieuQuy |
-|     0-0 | The\_shy | 0-3 | GodOfTheGodless | 0-0 | flightlessbird | 0-0 | fire\_de |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-1 | Wisepii | | 0-0 | [HyM]Cyclops | | 0-0 | Scogo | | 0-0 | CL.TheBloodless | |
+| 0-0 | Rubenstock | | 0-0 | [bK]martinhs\_ | | **1-0** | **Skull** | | 0-0 | GDucky | |
+| 0-0 | 魔卡大神简瓜瓜 | | **1-0** | **[KGB] Alive** | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | |
+| 0-0 | sora kuma | | 0-0 | Galaxy | | 0-0 | \_TieuQuy | | 0-0 | The\_shy | |
+| 0-3 | GodOfTheGodless | | 0-0 | flightlessbird | | 0-0 | fire\_de | |
+</details>
 
-  <details>
-    <summary> Rubenstock</summary>
+<details>
+<summary> Rubenstock</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Wisepii | 1-1 | [HyM]Cyclops | **1-0** | **Scogo** | 0-0 | CL.TheBloodless | 0-0 | [bK]martinhs\_ |
-|     **3-2** | **Skull** | 0-1 | GDucky | 0-0 | 魔卡大神简瓜瓜 | 0-0 | [KGB] Alive | 0-0 | RoR \| Kellar |
-|     0-0 | \_Ares\_yinghua\_ | 0-1 | sora kuma | 0-0 | Galaxy | 0-0 | \_TieuQuy | 0-0 | RecoN |
-|     0-0 | The\_shy | 0-0 | GodOfTheGodless | 0-0 | flightlessbird | 0-2 | fire\_de |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Wisepii | | 1-1 | [HyM]Cyclops | | **1-0** | **Scogo** | | 0-0 | CL.TheBloodless | |
+| 0-0 | [bK]martinhs\_ | | **3-2** | **Skull** | | 0-1 | GDucky | | 0-0 | 魔卡大神简瓜瓜 | |
+| 0-0 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | | 0-1 | sora kuma | |
+| 0-0 | Galaxy | | 0-0 | \_TieuQuy | | 0-0 | RecoN | | 0-0 | The\_shy | |
+| 0-0 | GodOfTheGodless | | 0-0 | flightlessbird | | 0-2 | fire\_de | |
+</details>
 
-  <details>
-    <summary> Galaxy</summary>
+<details>
+<summary> Galaxy</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Wisepii | 0-0 | [HyM]Cyclops | 0-0 | Scogo | 0-0 | CL.TheBloodless | 0-0 | Rubenstock |
-|     0-0 | [bK]martinhs\_ | 0-0 | Skull | 0-0 | GDucky | 0-1 | 魔卡大神简瓜瓜 | 0-0 | [KGB] Alive |
-|     0-0 | RoR \| Kellar | 0-0 | \_Ares\_yinghua\_ | 0-0 | sora kuma | 0-0 | \_TieuQuy | 0-0 | RecoN |
-|     0-0 | The\_shy | 0-0 | GodOfTheGodless | 0-0 | flightlessbird | **4-1** | **fire\_de** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Wisepii | | 0-0 | [HyM]Cyclops | | 0-0 | Scogo | | 0-0 | CL.TheBloodless | |
+| 0-0 | Rubenstock | | 0-0 | [bK]martinhs\_ | | 0-0 | Skull | | 0-0 | GDucky | |
+| 0-1 | 魔卡大神简瓜瓜 | | 0-0 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | |
+| 0-0 | sora kuma | | 0-0 | \_TieuQuy | | 0-0 | RecoN | | 0-0 | The\_shy | |
+| 0-0 | GodOfTheGodless | | 0-0 | flightlessbird | | **4-1** | **fire\_de** | |
+</details>
 
-  <details>
-    <summary> _TieuQuy</summary>
+<details>
+<summary> _TieuQuy</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Wisepii | 0-0 | [HyM]Cyclops | 0-0 | Scogo | 0-0 | CL.TheBloodless | 0-0 | Rubenstock |
-|     0-0 | [bK]martinhs\_ | 0-0 | Skull | 0-0 | GDucky | 1-2 | 魔卡大神简瓜瓜 | 0-0 | [KGB] Alive |
-|     0-0 | RoR \| Kellar | 0-0 | \_Ares\_yinghua\_ | **1-0** | **sora kuma** | 0-0 | Galaxy | 0-0 | RecoN |
-|     0-0 | The\_shy | 0-0 | GodOfTheGodless | 0-0 | flightlessbird | 0-0 | fire\_de |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Wisepii | | 0-0 | [HyM]Cyclops | | 0-0 | Scogo | | 0-0 | CL.TheBloodless | |
+| 0-0 | Rubenstock | | 0-0 | [bK]martinhs\_ | | 0-0 | Skull | | 0-0 | GDucky | |
+| 1-2 | 魔卡大神简瓜瓜 | | 0-0 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | |
+| **1-0** | **sora kuma** | | 0-0 | Galaxy | | 0-0 | RecoN | | 0-0 | The\_shy | |
+| 0-0 | GodOfTheGodless | | 0-0 | flightlessbird | | 0-0 | fire\_de | |
+</details>
 
-  <details>
-    <summary> Skull</summary>
+<details>
+<summary> Skull</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Wisepii | **4-0** | **[HyM]Cyclops** | 0-1 | Scogo | 2-2 | CL.TheBloodless | 2-3 | Rubenstock |
-|     0-0 | [bK]martinhs\_ | 0-0 | GDucky | 0-0 | 魔卡大神简瓜瓜 | 0-0 | [KGB] Alive | 0-0 | RoR \| Kellar |
-|     0-0 | \_Ares\_yinghua\_ | 0-0 | sora kuma | 0-0 | Galaxy | 0-0 | \_TieuQuy | 0-1 | RecoN |
-|     0-0 | The\_shy | 2-2 | GodOfTheGodless | **1-0** | **flightlessbird** | 0-1 | fire\_de |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Wisepii | | **4-0** | **[HyM]Cyclops** | | 0-1 | Scogo | | 2-2 | CL.TheBloodless | |
+| 2-3 | Rubenstock | | 0-0 | [bK]martinhs\_ | | 0-0 | GDucky | | 0-0 | 魔卡大神简瓜瓜 | |
+| 0-0 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | | 0-0 | sora kuma | |
+| 0-0 | Galaxy | | 0-0 | \_TieuQuy | | 0-1 | RecoN | | 0-0 | The\_shy | |
+| 2-2 | GodOfTheGodless | | **1-0** | **flightlessbird** | | 0-1 | fire\_de | |
+</details>
 
-  <details>
-    <summary> flightlessbird</summary>
+<details>
+<summary> flightlessbird</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Wisepii | 0-0 | [HyM]Cyclops | 0-0 | Scogo | **1-0** | **CL.TheBloodless** | 0-0 | Rubenstock |
-|     0-0 | [bK]martinhs\_ | 0-1 | Skull | 0-0 | GDucky | 0-0 | 魔卡大神简瓜瓜 | 0-0 | [KGB] Alive |
-|     0-0 | RoR \| Kellar | 0-0 | \_Ares\_yinghua\_ | 0-0 | sora kuma | 0-0 | Galaxy | 0-0 | \_TieuQuy |
-|     0-0 | RecoN | 0-0 | The\_shy | 0-1 | GodOfTheGodless | 0-0 | fire\_de |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Wisepii | | 0-0 | [HyM]Cyclops | | 0-0 | Scogo | | **1-0** | **CL.TheBloodless** | |
+| 0-0 | Rubenstock | | 0-0 | [bK]martinhs\_ | | 0-1 | Skull | | 0-0 | GDucky | |
+| 0-0 | 魔卡大神简瓜瓜 | | 0-0 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | |
+| 0-0 | sora kuma | | 0-0 | Galaxy | | 0-0 | \_TieuQuy | | 0-0 | RecoN | |
+| 0-0 | The\_shy | | 0-1 | GodOfTheGodless | | 0-0 | fire\_de | |
+</details>
 
-  <details>
-    <summary> [HyM]Cyclops</summary>
+<details>
+<summary> [HyM]Cyclops</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Wisepii | 0-0 | Scogo | 0-0 | CL.TheBloodless | 1-1 | Rubenstock | 0-0 | [bK]martinhs\_ |
-|     0-4 | Skull | 0-0 | GDucky | 0-0 | 魔卡大神简瓜瓜 | 0-0 | [KGB] Alive | 0-0 | RoR \| Kellar |
-|     0-0 | \_Ares\_yinghua\_ | 0-0 | sora kuma | 0-0 | Galaxy | 0-0 | \_TieuQuy | 0-0 | RecoN |
-|     0-0 | The\_shy | 0-1 | GodOfTheGodless | 0-0 | flightlessbird | **1-0** | **fire\_de** |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Wisepii | | 0-0 | Scogo | | 0-0 | CL.TheBloodless | | 1-1 | Rubenstock | |
+| 0-0 | [bK]martinhs\_ | | 0-4 | Skull | | 0-0 | GDucky | | 0-0 | 魔卡大神简瓜瓜 | |
+| 0-0 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | | 0-0 | sora kuma | |
+| 0-0 | Galaxy | | 0-0 | \_TieuQuy | | 0-0 | RecoN | | 0-0 | The\_shy | |
+| 0-1 | GodOfTheGodless | | 0-0 | flightlessbird | | **1-0** | **fire\_de** | |
+</details>
 
-  <details>
-    <summary> _Ares_yinghua_</summary>
+<details>
+<summary> _Ares_yinghua_</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Wisepii | 0-0 | [HyM]Cyclops | 0-0 | Scogo | 0-0 | CL.TheBloodless | 0-0 | Rubenstock |
-|     0-0 | [bK]martinhs\_ | 0-0 | Skull | 0-0 | GDucky | 0-0 | 魔卡大神简瓜瓜 | 0-0 | [KGB] Alive |
-|     0-0 | RoR \| Kellar | 0-0 | sora kuma | 0-0 | Galaxy | 0-0 | \_TieuQuy | 0-0 | RecoN |
-|     0-0 | The\_shy | 0-0 | GodOfTheGodless | 0-0 | flightlessbird | 0-0 | fire\_de |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Wisepii | | 0-0 | [HyM]Cyclops | | 0-0 | Scogo | | 0-0 | CL.TheBloodless | |
+| 0-0 | Rubenstock | | 0-0 | [bK]martinhs\_ | | 0-0 | Skull | | 0-0 | GDucky | |
+| 0-0 | 魔卡大神简瓜瓜 | | 0-0 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | sora kuma | |
+| 0-0 | Galaxy | | 0-0 | \_TieuQuy | | 0-0 | RecoN | | 0-0 | The\_shy | |
+| 0-0 | GodOfTheGodless | | 0-0 | flightlessbird | | 0-0 | fire\_de | |
+</details>
 
-  <details>
-    <summary> RoR | Kellar</summary>
+<details>
+<summary> RoR | Kellar</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Wisepii | 0-0 | [HyM]Cyclops | 0-0 | Scogo | 0-0 | CL.TheBloodless | 0-0 | Rubenstock |
-|     0-0 | [bK]martinhs\_ | 0-0 | Skull | 0-0 | GDucky | 0-1 | 魔卡大神简瓜瓜 | 0-0 | [KGB] Alive |
-|     0-0 | \_Ares\_yinghua\_ | 0-0 | sora kuma | 0-0 | Galaxy | 0-0 | \_TieuQuy | 0-0 | RecoN |
-|     0-0 | The\_shy | 0-0 | GodOfTheGodless | 0-0 | flightlessbird | 0-0 | fire\_de |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Wisepii | | 0-0 | [HyM]Cyclops | | 0-0 | Scogo | | 0-0 | CL.TheBloodless | |
+| 0-0 | Rubenstock | | 0-0 | [bK]martinhs\_ | | 0-0 | Skull | | 0-0 | GDucky | |
+| 0-1 | 魔卡大神简瓜瓜 | | 0-0 | [KGB] Alive | | 0-0 | \_Ares\_yinghua\_ | | 0-0 | sora kuma | |
+| 0-0 | Galaxy | | 0-0 | \_TieuQuy | | 0-0 | RecoN | | 0-0 | The\_shy | |
+| 0-0 | GodOfTheGodless | | 0-0 | flightlessbird | | 0-0 | fire\_de | |
+</details>
 
-  <details>
-    <summary> sora kuma</summary>
+<details>
+<summary> sora kuma</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Wisepii | 0-0 | [HyM]Cyclops | 0-0 | Scogo | 0-1 | CL.TheBloodless | **1-0** | **Rubenstock** |
-|     0-0 | [bK]martinhs\_ | 0-0 | Skull | 0-0 | GDucky | 0-0 | 魔卡大神简瓜瓜 | 0-0 | [KGB] Alive |
-|     0-0 | RoR \| Kellar | 0-0 | \_Ares\_yinghua\_ | 0-0 | Galaxy | 0-1 | \_TieuQuy | 0-0 | RecoN |
-|     0-0 | The\_shy | 0-1 | GodOfTheGodless | 0-0 | flightlessbird | 0-1 | fire\_de |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Wisepii | | 0-0 | [HyM]Cyclops | | 0-0 | Scogo | | 0-1 | CL.TheBloodless | |
+| **1-0** | **Rubenstock** | | 0-0 | [bK]martinhs\_ | | 0-0 | Skull | | 0-0 | GDucky | |
+| 0-0 | 魔卡大神简瓜瓜 | | 0-0 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | |
+| 0-0 | Galaxy | | 0-1 | \_TieuQuy | | 0-0 | RecoN | | 0-0 | The\_shy | |
+| 0-1 | GodOfTheGodless | | 0-0 | flightlessbird | | 0-1 | fire\_de | |
+</details>
 
-  <details>
-    <summary> The_shy</summary>
+<details>
+<summary> The_shy</summary>
 
-    | Score | Player | Score | Player | Score | Player | Score | Player | Score | Player |
-    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     0-0 | Wisepii | 0-0 | [HyM]Cyclops | 0-0 | Scogo | 0-0 | CL.TheBloodless | 0-0 | Rubenstock |
-|     0-0 | [bK]martinhs\_ | 0-0 | Skull | 0-0 | GDucky | 0-1 | 魔卡大神简瓜瓜 | 0-0 | [KGB] Alive |
-|     0-0 | RoR \| Kellar | 0-0 | \_Ares\_yinghua\_ | 0-0 | sora kuma | 0-0 | Galaxy | 0-0 | \_TieuQuy |
-|     0-0 | RecoN | 0-0 | GodOfTheGodless | 0-0 | flightlessbird | 0-1 | fire\_de |
-  </details>
+| Score | Player | | Score | Player | | Score | Player | | Score | Player | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0-0 | Wisepii | | 0-0 | [HyM]Cyclops | | 0-0 | Scogo | | 0-0 | CL.TheBloodless | |
+| 0-0 | Rubenstock | | 0-0 | [bK]martinhs\_ | | 0-0 | Skull | | 0-0 | GDucky | |
+| 0-1 | 魔卡大神简瓜瓜 | | 0-0 | [KGB] Alive | | 0-0 | RoR \| Kellar | | 0-0 | \_Ares\_yinghua\_ | |
+| 0-0 | sora kuma | | 0-0 | Galaxy | | 0-0 | \_TieuQuy | | 0-0 | RecoN | |
+| 0-0 | GodOfTheGodless | | 0-0 | flightlessbird | | 0-1 | fire\_de | |
+</details>
 
 <\blockquote>
 </details>
